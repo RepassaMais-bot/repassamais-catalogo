@@ -12,14 +12,8 @@
       "preco": 30000,
       "encerra": "2026-01-08 15:09:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/428378/precautionary-report/946eb628856a5dce6f281bda42d6d90e.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428378/precautionary-report/946eb628856a5dce6f281bda42d6d90e.pdf",
-        "updated_at": "2025-09-22T23:18:30.000000Z",
-        "created_at": "2025-09-22T23:18:24.000000Z",
-        "id": 38240,
-        "vehicle_id": 428378,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428378/precautionary-report/946eb628856a5dce6f281bda42d6d90e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/428378/images/2bf0bec7de6cef420b182245e928ca8e.jpg",
@@ -63,14 +57,8 @@
       "preco": 139000,
       "encerra": "2026-01-08 15:08:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432710/precautionary-report/90b06dcf6e4c97e733a8328b45ec1af2.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432710/precautionary-report/90b06dcf6e4c97e733a8328b45ec1af2.pdf",
-        "updated_at": "2025-12-11T19:51:49.000000Z",
-        "created_at": "2025-12-11T19:51:47.000000Z",
-        "id": 42443,
-        "vehicle_id": 432710,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432710/precautionary-report/90b06dcf6e4c97e733a8328b45ec1af2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432710/images/3ed627a3d93fd72131681dc66600ce83.jpg",
@@ -139,14 +127,8 @@
       "preco": 149000,
       "encerra": "2026-01-08 15:08:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432056/precautionary-report/88a8922f1e7f5c25386c98eb8fe1285b.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432056/precautionary-report/88a8922f1e7f5c25386c98eb8fe1285b.pdf",
-        "updated_at": "2025-11-25T21:41:59.000000Z",
-        "created_at": "2025-11-25T21:41:57.000000Z",
-        "id": 41766,
-        "vehicle_id": 432056,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432056/precautionary-report/88a8922f1e7f5c25386c98eb8fe1285b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432056/images/43bee8c691b00483b7ae6e95bb3cb0ae.jpg",
@@ -209,14 +191,8 @@
       "preco": 249000,
       "encerra": "2026-01-08 15:07:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432692/precautionary-report/8eb2f764f8a45bceceec3d9d58ee5c9d.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432692/precautionary-report/8eb2f764f8a45bceceec3d9d58ee5c9d.pdf",
-        "updated_at": "2025-12-19T18:48:32.000000Z",
-        "created_at": "2025-12-19T18:48:28.000000Z",
-        "id": 42997,
-        "vehicle_id": 432692,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432692/precautionary-report/8eb2f764f8a45bceceec3d9d58ee5c9d.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432692/images/19a6317317b4071bbb89add5064e425c.jpg",
@@ -257,14 +233,8 @@
       "preco": 249000,
       "encerra": "2026-01-08 15:07:00",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_09/3eQHDx0I3Gf8yF4R4Clj.pdf",
-        "situation": "aprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_09/3eQHDx0I3Gf8yF4R4Clj.pdf",
-        "updated_at": "2025-09-02T14:29:21.000000Z",
-        "created_at": "2025-09-02T14:29:21.000000Z",
-        "id": 32666,
-        "vehicle_id": 414474,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_09/3eQHDx0I3Gf8yF4R4Clj.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_09/PuMI85v6Hcrws0QLXpGL.jpg",
@@ -311,14 +281,8 @@
       "preco": 259000,
       "encerra": "2026-01-08 15:06:30",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_04_24/Pv11jPuRLVUgL3wWrRQs.pdf",
-        "situation": "aprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_04_24/Pv11jPuRLVUgL3wWrRQs.pdf",
-        "updated_at": "2025-09-02T14:30:38.000000Z",
-        "created_at": "2025-09-02T14:30:38.000000Z",
-        "id": 36849,
-        "vehicle_id": 413101,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_04_24/Pv11jPuRLVUgL3wWrRQs.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_04_24/CI9FDw0DaBdaLjngh0kh.jpg",
@@ -368,14 +332,8 @@
       "preco": 269000,
       "encerra": "2026-01-08 15:06:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433635/precautionary-report/ee89cf4309c81665d15049855a3129a1.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433635/precautionary-report/ee89cf4309c81665d15049855a3129a1.pdf",
-        "updated_at": "2025-12-29T15:39:22.000000Z",
-        "created_at": "2025-12-29T15:39:18.000000Z",
-        "id": 43303,
-        "vehicle_id": 433635,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433635/precautionary-report/ee89cf4309c81665d15049855a3129a1.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433635/images/4f4b83ea3ee2b9289f8deb48930493f2.jpg",
@@ -426,14 +384,8 @@
       "preco": 239000,
       "encerra": "2026-01-08 15:05:30",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_06_17/fI1fsSsVGj2HSZlIU2qp.pdf",
-        "situation": "aprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_06_17/fI1fsSsVGj2HSZlIU2qp.pdf",
-        "updated_at": "2025-09-02T14:28:26.000000Z",
-        "created_at": "2025-09-02T14:28:26.000000Z",
-        "id": 24630,
-        "vehicle_id": 418526,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_06_17/fI1fsSsVGj2HSZlIU2qp.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_06_17/TDAAzc7C088VrIHc5JAb.jpg",
@@ -496,14 +448,8 @@
       "preco": 299000,
       "encerra": "2026-01-08 15:05:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432496/precautionary-report/6cd9b39b563012eacf2a151ae12bfe2c.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432496/precautionary-report/6cd9b39b563012eacf2a151ae12bfe2c.pdf",
-        "updated_at": "2025-12-04T19:50:51.000000Z",
-        "created_at": "2025-12-04T19:50:48.000000Z",
-        "id": 42123,
-        "vehicle_id": 432496,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432496/precautionary-report/6cd9b39b563012eacf2a151ae12bfe2c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432496/images/31239819104f5042d96fcd8c58a5a50b.jpg",
@@ -552,14 +498,8 @@
       "preco": 369000,
       "encerra": "2026-01-08 15:04:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432063/precautionary-report/9a0e5fecb1b036aadfdf78ee5d093866.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432063/precautionary-report/9a0e5fecb1b036aadfdf78ee5d093866.pdf",
-        "updated_at": "2025-11-25T21:37:36.000000Z",
-        "created_at": "2025-11-25T21:37:30.000000Z",
-        "id": 41760,
-        "vehicle_id": 432063,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432063/precautionary-report/9a0e5fecb1b036aadfdf78ee5d093866.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432063/images/f8a8385086e2176ae323587dd3a50f5d.jpg",
@@ -613,14 +553,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 16:28:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433651/precautionary-report/7cb5069f32864422f67098a7e455d426.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433651/precautionary-report/7cb5069f32864422f67098a7e455d426.pdf",
-        "updated_at": "2025-12-29T16:17:54.000000Z",
-        "created_at": "2025-12-29T16:17:52.000000Z",
-        "id": 43339,
-        "vehicle_id": 433651,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433651/precautionary-report/7cb5069f32864422f67098a7e455d426.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433651/images/b0236b4d8843ca62bd7b65258d7bcd45.jpg",
@@ -669,14 +603,8 @@
       "preco": 27000,
       "encerra": "2026-01-08 16:28:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430802/precautionary-report/e174f5e121f94dd69a7069824b3ec031.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430802/precautionary-report/e174f5e121f94dd69a7069824b3ec031.pdf",
-        "updated_at": "2025-10-29T15:16:26.000000Z",
-        "created_at": "2025-10-29T15:16:22.000000Z",
-        "id": 40542,
-        "vehicle_id": 430802,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430802/precautionary-report/e174f5e121f94dd69a7069824b3ec031.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430802/images/9c56e781f302441049523227e23fb524.jpg",
@@ -724,14 +652,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 16:27:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430703/precautionary-report/6613f6bcb376c61e9c277b2971af400d.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430703/precautionary-report/6613f6bcb376c61e9c277b2971af400d.pdf",
-        "updated_at": "2025-10-28T20:43:51.000000Z",
-        "created_at": "2025-10-28T20:43:49.000000Z",
-        "id": 40461,
-        "vehicle_id": 430703,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430703/precautionary-report/6613f6bcb376c61e9c277b2971af400d.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430703/images/80786700188a3179bf6581b70e4008dd.jpg",
@@ -769,17 +691,11 @@
       "ano_mod": 2017,
       "combustivel": "Alcool / Gasolina",
       "km": 114910,
-      "preco": 36000,
+      "preco": 37000,
       "encerra": "2026-01-08 16:27:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433239/precautionary-report/31e92f381996dd02b18041ee4ddab278.pdf",
-        "situation": null,
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433239/precautionary-report/31e92f381996dd02b18041ee4ddab278.pdf",
-        "updated_at": "2026-01-07T13:35:48.000000Z",
-        "created_at": "2026-01-07T13:35:48.000000Z",
-        "id": 43414,
-        "vehicle_id": 433239,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433239/precautionary-report/31e92f381996dd02b18041ee4ddab278.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433239/images/486f3de235a3487ff5ebc4e774430992.jpg",
@@ -829,14 +745,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 16:26:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430015/precautionary-report/ca03bb447caafd8eb9343e8269616ed5.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430015/precautionary-report/ca03bb447caafd8eb9343e8269616ed5.pdf",
-        "updated_at": "2025-10-16T21:00:01.000000Z",
-        "created_at": "2025-10-16T20:59:53.000000Z",
-        "id": 39739,
-        "vehicle_id": 430015,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430015/precautionary-report/ca03bb447caafd8eb9343e8269616ed5.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430015/images/a4b1cb00cf96df9d49496b2626b24fa5.jpg",
@@ -883,14 +793,8 @@
       "preco": 40000,
       "encerra": "2026-01-08 16:26:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432562/precautionary-report/4b0c4a2ec627437c7914d3e58d54d1a3.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432562/precautionary-report/4b0c4a2ec627437c7914d3e58d54d1a3.pdf",
-        "updated_at": "2025-12-05T20:44:40.000000Z",
-        "created_at": "2025-12-05T20:44:36.000000Z",
-        "id": 42263,
-        "vehicle_id": 432562,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432562/precautionary-report/4b0c4a2ec627437c7914d3e58d54d1a3.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432562/images/3360c2f3ba90f837bfc27e3bf42e2260.jpg",
@@ -941,14 +845,8 @@
       "preco": 27000,
       "encerra": "2026-01-08 16:25:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430842/precautionary-report/f8951f2ca56dbc3fc3e23c05cc5b6e8e.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430842/precautionary-report/f8951f2ca56dbc3fc3e23c05cc5b6e8e.pdf",
-        "updated_at": "2025-10-30T16:00:36.000000Z",
-        "created_at": "2025-10-30T16:00:33.000000Z",
-        "id": 40586,
-        "vehicle_id": 430842,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430842/precautionary-report/f8951f2ca56dbc3fc3e23c05cc5b6e8e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430842/images/5673a5452a654d46d034cf3e504daf1a.jpg",
@@ -995,14 +893,8 @@
       "preco": 25000,
       "encerra": "2026-01-08 16:25:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430630/precautionary-report/416e4155443f38cf7a0fb0b614138dad.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430630/precautionary-report/416e4155443f38cf7a0fb0b614138dad.pdf",
-        "updated_at": "2025-10-27T20:57:02.000000Z",
-        "created_at": "2025-10-27T20:57:01.000000Z",
-        "id": 40381,
-        "vehicle_id": 430630,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430630/precautionary-report/416e4155443f38cf7a0fb0b614138dad.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430630/images/c228ba71d589314959f948a5e92e1e5a.jpg",
@@ -1052,14 +944,8 @@
       "preco": 20000,
       "encerra": "2026-01-08 16:24:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431031/precautionary-report/822a76c85acfafa903bf23edddeb2890.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431031/precautionary-report/822a76c85acfafa903bf23edddeb2890.pdf",
-        "updated_at": "2025-11-05T21:19:31.000000Z",
-        "created_at": "2025-11-05T21:19:27.000000Z",
-        "id": 40803,
-        "vehicle_id": 431031,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431031/precautionary-report/822a76c85acfafa903bf23edddeb2890.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431031/images/2bbf96cb1452882935a18791aa452a0f.jpg",
@@ -1109,14 +995,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 16:24:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433407/precautionary-report/9cf128075a5ecd8a5e0a802caa59c330.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433407/precautionary-report/9cf128075a5ecd8a5e0a802caa59c330.pdf",
-        "updated_at": "2025-12-23T17:08:02.000000Z",
-        "created_at": "2025-12-23T17:07:59.000000Z",
-        "id": 43105,
-        "vehicle_id": 433407,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433407/precautionary-report/9cf128075a5ecd8a5e0a802caa59c330.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433407/images/a97727d4d40711011d9bfdd73e4f4ed6.jpg",
@@ -1165,14 +1045,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 16:23:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432625/precautionary-report/36a2a840d2cc9088908857aff4fff9b8.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432625/precautionary-report/36a2a840d2cc9088908857aff4fff9b8.pdf",
-        "updated_at": "2025-12-08T20:08:15.000000Z",
-        "created_at": "2025-12-08T20:08:11.000000Z",
-        "id": 42335,
-        "vehicle_id": 432625,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432625/precautionary-report/36a2a840d2cc9088908857aff4fff9b8.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432625/images/8e542120284270045fe672e49b1b22ad.jpg",
@@ -1222,14 +1096,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 16:23:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430469/precautionary-report/080862fb7750f49d543bede37cdf918b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430469/precautionary-report/080862fb7750f49d543bede37cdf918b.pdf",
-        "updated_at": "2025-10-24T19:01:57.000000Z",
-        "created_at": "2025-10-24T19:01:53.000000Z",
-        "id": 40199,
-        "vehicle_id": 430469,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430469/precautionary-report/080862fb7750f49d543bede37cdf918b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430469/images/34d9ba610c8f084ee5d9f2395d03479b.jpg",
@@ -1279,14 +1147,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 16:22:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432693/precautionary-report/05e387b6b4d52eda55e1c6189caafea0.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432693/precautionary-report/05e387b6b4d52eda55e1c6189caafea0.pdf",
-        "updated_at": "2025-12-10T18:54:41.000000Z",
-        "created_at": "2025-12-10T18:54:32.000000Z",
-        "id": 42402,
-        "vehicle_id": 432693,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432693/precautionary-report/05e387b6b4d52eda55e1c6189caafea0.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432693/images/d178dd29ec5102e3a936471480469d1f.jpg",
@@ -1337,14 +1199,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 16:22:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432430/precautionary-report/0e60783a23a141d9ce61e1124e85b744.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432430/precautionary-report/0e60783a23a141d9ce61e1124e85b744.pdf",
-        "updated_at": "2025-12-04T21:40:33.000000Z",
-        "created_at": "2025-12-04T21:40:31.000000Z",
-        "id": 42235,
-        "vehicle_id": 432430,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432430/precautionary-report/0e60783a23a141d9ce61e1124e85b744.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432430/images/06de53b9fad4a70a53b658d2353ae807.jpg",
@@ -1392,14 +1248,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 16:21:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432623/precautionary-report/f012249ece2e868c4dde31004fd29c13.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432623/precautionary-report/f012249ece2e868c4dde31004fd29c13.pdf",
-        "updated_at": "2025-12-08T20:11:13.000000Z",
-        "created_at": "2025-12-08T20:11:07.000000Z",
-        "id": 42339,
-        "vehicle_id": 432623,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432623/precautionary-report/f012249ece2e868c4dde31004fd29c13.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432623/images/08731ced39a67341b605fc916f98cbe8.jpg",
@@ -1449,14 +1299,8 @@
       "preco": 29000,
       "encerra": "2026-01-08 16:21:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432622/precautionary-report/ac8eff2d557526d5d1f2b1739518f76a.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432622/precautionary-report/ac8eff2d557526d5d1f2b1739518f76a.pdf",
-        "updated_at": "2025-12-08T20:16:42.000000Z",
-        "created_at": "2025-12-08T20:16:39.000000Z",
-        "id": 42345,
-        "vehicle_id": 432622,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432622/precautionary-report/ac8eff2d557526d5d1f2b1739518f76a.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432622/images/3cbe401e2cfef996f20c4178e8253f3c.jpg",
@@ -1507,14 +1351,8 @@
       "preco": 23000,
       "encerra": "2026-01-08 16:20:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429196/precautionary-report/d9e9adedd9088111035edcf755eb20d6.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429196/precautionary-report/d9e9adedd9088111035edcf755eb20d6.pdf",
-        "updated_at": "2025-10-03T18:59:41.000000Z",
-        "created_at": "2025-10-03T18:59:38.000000Z",
-        "id": 38945,
-        "vehicle_id": 429196,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429196/precautionary-report/d9e9adedd9088111035edcf755eb20d6.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429196/images/0c0fd324d3aecc8b427213281b312269.jpg",
@@ -1560,14 +1398,8 @@
       "preco": 32000,
       "encerra": "2026-01-08 16:20:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429717/precautionary-report/71b61f74a10a099ab359548eabc2070b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429717/precautionary-report/71b61f74a10a099ab359548eabc2070b.pdf",
-        "updated_at": "2025-10-14T00:06:40.000000Z",
-        "created_at": "2025-10-14T00:06:32.000000Z",
-        "id": 39462,
-        "vehicle_id": 429717,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429717/precautionary-report/71b61f74a10a099ab359548eabc2070b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429717/images/0d98226c91fb0cfe5a99c9b387bbcc82.jpg",
@@ -1614,14 +1446,8 @@
       "preco": 32000,
       "encerra": "2026-01-08 16:19:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430139/precautionary-report/c27488d81fb3c769e82963c6cf4ee94d.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430139/precautionary-report/c27488d81fb3c769e82963c6cf4ee94d.pdf",
-        "updated_at": "2025-10-21T19:01:38.000000Z",
-        "created_at": "2025-10-21T19:01:35.000000Z",
-        "id": 39856,
-        "vehicle_id": 430139,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430139/precautionary-report/c27488d81fb3c769e82963c6cf4ee94d.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430139/images/e6a7b4d503b0f87fc800eaceb6f2af74.jpg",
@@ -1671,14 +1497,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 16:19:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430468/precautionary-report/a9a57b5c8de1e9d2847780722fc80945.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430468/precautionary-report/a9a57b5c8de1e9d2847780722fc80945.pdf",
-        "updated_at": "2025-10-24T18:58:33.000000Z",
-        "created_at": "2025-10-24T18:58:20.000000Z",
-        "id": 40198,
-        "vehicle_id": 430468,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430468/precautionary-report/a9a57b5c8de1e9d2847780722fc80945.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430468/images/e537f39796d42e0f0fc4a0c7bbc1016a.jpg",
@@ -1728,14 +1548,8 @@
       "preco": 15000,
       "encerra": "2026-01-08 16:18:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429950/precautionary-report/f87934541b8a3e325d172ea4427404c0.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429950/precautionary-report/f87934541b8a3e325d172ea4427404c0.pdf",
-        "updated_at": "2025-10-16T20:27:12.000000Z",
-        "created_at": "2025-10-16T20:27:10.000000Z",
-        "id": 39691,
-        "vehicle_id": 429950,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429950/precautionary-report/f87934541b8a3e325d172ea4427404c0.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429950/images/84d36d4bd9d386e4ee3e444b39ba5607.jpg",
@@ -1782,14 +1596,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 16:18:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429811/precautionary-report/486c05805ce47d4be3312c44de3dc6b0.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429811/precautionary-report/486c05805ce47d4be3312c44de3dc6b0.pdf",
-        "updated_at": "2025-10-14T19:45:57.000000Z",
-        "created_at": "2025-10-14T19:45:54.000000Z",
-        "id": 39528,
-        "vehicle_id": 429811,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429811/precautionary-report/486c05805ce47d4be3312c44de3dc6b0.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429811/images/c73aa4bdf8db59456b94d81100b1bd1e.jpg",
@@ -1839,14 +1647,8 @@
       "preco": 12000,
       "encerra": "2026-01-08 16:17:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433206/precautionary-report/b4713f88240bbad9d5c8469f2195ac8b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433206/precautionary-report/b4713f88240bbad9d5c8469f2195ac8b.pdf",
-        "updated_at": "2025-12-18T20:07:03.000000Z",
-        "created_at": "2025-12-18T20:06:52.000000Z",
-        "id": 42915,
-        "vehicle_id": 433206,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433206/precautionary-report/b4713f88240bbad9d5c8469f2195ac8b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433206/images/e0e6be284190051fc6a5408e74dc97cb.jpg",
@@ -1888,14 +1690,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 16:17:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432459/precautionary-report/c8efc8eec87bd86434e11408f3d8a33b.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432459/precautionary-report/c8efc8eec87bd86434e11408f3d8a33b.pdf",
-        "updated_at": "2025-12-04T20:51:57.000000Z",
-        "created_at": "2025-12-04T20:51:54.000000Z",
-        "id": 42191,
-        "vehicle_id": 432459,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432459/precautionary-report/c8efc8eec87bd86434e11408f3d8a33b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432459/images/768716a57a505b452da24fec03811263.jpg",
@@ -1945,14 +1741,8 @@
       "preco": 13000,
       "encerra": "2026-01-08 16:16:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432265/precautionary-report/6e2de29701df04b3fd0888991745b997.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432265/precautionary-report/6e2de29701df04b3fd0888991745b997.pdf",
-        "updated_at": "2025-11-28T20:24:25.000000Z",
-        "created_at": "2025-11-28T20:24:23.000000Z",
-        "id": 41915,
-        "vehicle_id": 432265,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432265/precautionary-report/6e2de29701df04b3fd0888991745b997.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432265/images/2a6b4de818e8977db9807213c5a290a3.jpg",
@@ -2004,14 +1794,8 @@
       "preco": 52000,
       "encerra": "2026-01-08 16:16:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433760/precautionary-report/f644a35a97ea2532f618dbd8cc9a0314.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433760/precautionary-report/f644a35a97ea2532f618dbd8cc9a0314.pdf",
-        "updated_at": "2026-01-07T20:35:44.000000Z",
-        "created_at": "2026-01-07T20:35:41.000000Z",
-        "id": 43441,
-        "vehicle_id": 433760,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433760/precautionary-report/f644a35a97ea2532f618dbd8cc9a0314.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433760/images/aac96690abbf1beaf85a608aab3a0410.jpeg",
@@ -2040,14 +1824,8 @@
       "preco": 84000,
       "encerra": "2026-01-08 16:15:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433759/precautionary-report/92478500da4f8e32f1490195d7178712.png",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433759/precautionary-report/92478500da4f8e32f1490195d7178712.png",
-        "updated_at": "2026-01-07T20:13:52.000000Z",
-        "created_at": "2026-01-07T20:13:40.000000Z",
-        "id": 43440,
-        "vehicle_id": 433759,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433759/precautionary-report/92478500da4f8e32f1490195d7178712.png",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433759/images/bd12db671fc1b99e0b35677efbe2c2b9.jpg",
@@ -2080,14 +1858,8 @@
       "preco": 72000,
       "encerra": "2026-01-08 16:15:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433758/precautionary-report/b4e2c5a041d483cac4f0be9a735bcc4e.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433758/precautionary-report/b4e2c5a041d483cac4f0be9a735bcc4e.pdf",
-        "updated_at": "2026-01-07T20:01:56.000000Z",
-        "created_at": "2026-01-07T20:01:53.000000Z",
-        "id": 43439,
-        "vehicle_id": 433758,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433758/precautionary-report/b4e2c5a041d483cac4f0be9a735bcc4e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433758/images/90d29f258a155cc1e6c9259731539447.jpeg",
@@ -2111,14 +1883,8 @@
       "preco": 42000,
       "encerra": "2026-01-08 16:14:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433757/precautionary-report/3dc7f815a2c69d250d1bfa4a95b1f8b1.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433757/precautionary-report/3dc7f815a2c69d250d1bfa4a95b1f8b1.pdf",
-        "updated_at": "2026-01-07T19:55:43.000000Z",
-        "created_at": "2026-01-07T19:55:41.000000Z",
-        "id": 43438,
-        "vehicle_id": 433757,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433757/precautionary-report/3dc7f815a2c69d250d1bfa4a95b1f8b1.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433757/images/ba456614fdf000a4541948e38fca3b19.jpeg",
@@ -2146,14 +1912,8 @@
       "preco": 85000,
       "encerra": "2026-01-08 16:14:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432580/precautionary-report/ca78f2d5483938b01e17762168a3e477.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432580/precautionary-report/ca78f2d5483938b01e17762168a3e477.pdf",
-        "updated_at": "2025-12-05T23:08:59.000000Z",
-        "created_at": "2025-12-05T23:08:47.000000Z",
-        "id": 42270,
-        "vehicle_id": 432580,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432580/precautionary-report/ca78f2d5483938b01e17762168a3e477.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432580/images/a0ebf891c870902a2bf080d7814c3c8d.png",
@@ -2201,14 +1961,8 @@
       "preco": 82000,
       "encerra": "2026-01-08 16:13:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432577/precautionary-report/ffc402a9351e825965c60ae816ccd06f.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432577/precautionary-report/ffc402a9351e825965c60ae816ccd06f.pdf",
-        "updated_at": "2025-12-05T23:13:29.000000Z",
-        "created_at": "2025-12-05T23:13:11.000000Z",
-        "id": 42273,
-        "vehicle_id": 432577,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432577/precautionary-report/ffc402a9351e825965c60ae816ccd06f.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432577/images/b5e0a6a59a094bedd1b246fd1857551b.png",
@@ -2243,14 +1997,8 @@
       "preco": 42000,
       "encerra": "2026-01-08 16:13:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432570/precautionary-report/65dbf581214b7c0166d61bcc470b2bdb.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432570/precautionary-report/65dbf581214b7c0166d61bcc470b2bdb.pdf",
-        "updated_at": "2025-12-05T23:35:05.000000Z",
-        "created_at": "2025-12-05T23:35:02.000000Z",
-        "id": 42289,
-        "vehicle_id": 432570,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432570/precautionary-report/65dbf581214b7c0166d61bcc470b2bdb.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432570/images/37378feb54a9418ce4ab892b065c2aed.png",
@@ -2273,17 +2021,11 @@
       "ano_mod": 2023,
       "combustivel": "Alcool / Gasolina",
       "km": 41084,
-      "preco": 38000,
+      "preco": 39000,
       "encerra": "2026-01-08 16:12:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432569/precautionary-report/68e01a0cc83d7186fbb8486323a9d9b1.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432569/precautionary-report/68e01a0cc83d7186fbb8486323a9d9b1.pdf",
-        "updated_at": "2025-12-05T23:39:39.000000Z",
-        "created_at": "2025-12-05T23:39:34.000000Z",
-        "id": 42290,
-        "vehicle_id": 432569,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432569/precautionary-report/68e01a0cc83d7186fbb8486323a9d9b1.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432569/images/1e5c104e7285aa398d7e6d11efa5a90e.png",
@@ -2315,14 +2057,8 @@
       "preco": 41000,
       "encerra": "2026-01-08 16:12:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432575/precautionary-report/2b61a72bb6dbdfdc52061ce1fc1bcf82.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432575/precautionary-report/2b61a72bb6dbdfdc52061ce1fc1bcf82.pdf",
-        "updated_at": "2025-12-05T23:17:26.000000Z",
-        "created_at": "2025-12-05T23:17:17.000000Z",
-        "id": 42278,
-        "vehicle_id": 432575,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432575/precautionary-report/2b61a72bb6dbdfdc52061ce1fc1bcf82.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432575/images/51797755d17a6012d58d4fd812b62e11.png",
@@ -2352,14 +2088,8 @@
       "preco": 337300,
       "encerra": "2026-01-08 13:03:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432441/precautionary-report/1e28a1fab09fd136eb63f7511ebdfb7a.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432441/precautionary-report/1e28a1fab09fd136eb63f7511ebdfb7a.pdf",
-        "updated_at": "2025-12-04T21:20:28.000000Z",
-        "created_at": "2025-12-04T21:20:25.000000Z",
-        "id": 42224,
-        "vehicle_id": 432441,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432441/precautionary-report/1e28a1fab09fd136eb63f7511ebdfb7a.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432441/images/e8c0765d1f19bc041e93fd4ef15ecd12.jpg",
@@ -2408,14 +2138,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 16:11:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433755/precautionary-report/e8bd64269771aa04869d9535b9bb1480.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433755/precautionary-report/e8bd64269771aa04869d9535b9bb1480.pdf",
-        "updated_at": "2026-01-07T21:45:17.000000Z",
-        "created_at": "2026-01-07T21:45:12.000000Z",
-        "id": 43443,
-        "vehicle_id": 433755,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433755/precautionary-report/e8bd64269771aa04869d9535b9bb1480.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433755/images/78426f1593c78de639c562a8fb7404f4.jpg",
@@ -2461,17 +2185,11 @@
       "ano_mod": 2018,
       "combustivel": "Alcool / Gasolina",
       "km": null,
-      "preco": 33000,
+      "preco": 38000,
       "encerra": "2026-01-08 16:11:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433754/precautionary-report/725917d44f77c733d13e83bcced4b270.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433754/precautionary-report/725917d44f77c733d13e83bcced4b270.pdf",
-        "updated_at": "2026-01-07T21:44:24.000000Z",
-        "created_at": "2026-01-07T21:44:18.000000Z",
-        "id": 43442,
-        "vehicle_id": 433754,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433754/precautionary-report/725917d44f77c733d13e83bcced4b270.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433754/images/8e7a4d6483b467d6ddc465f2e3fb81cf.jpg",
@@ -2519,14 +2237,8 @@
       "preco": 14000,
       "encerra": "2026-01-08 16:10:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433753/precautionary-report/35b999d4d342dfbacd9dd7d3702a731d.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433753/precautionary-report/35b999d4d342dfbacd9dd7d3702a731d.pdf",
-        "updated_at": "2026-01-07T18:40:44.000000Z",
-        "created_at": "2026-01-07T18:40:42.000000Z",
-        "id": 43435,
-        "vehicle_id": 433753,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433753/precautionary-report/35b999d4d342dfbacd9dd7d3702a731d.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433753/images/9f1e6e8143c92d9d4fcbf1fe41ad8693.jpg",
@@ -2563,14 +2275,8 @@
       "preco": 13000,
       "encerra": "2026-01-08 16:10:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433752/precautionary-report/de4e33977998dde896ae54da180d5380.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433752/precautionary-report/de4e33977998dde896ae54da180d5380.pdf",
-        "updated_at": "2026-01-07T18:41:40.000000Z",
-        "created_at": "2026-01-07T18:41:37.000000Z",
-        "id": 43436,
-        "vehicle_id": 433752,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433752/precautionary-report/de4e33977998dde896ae54da180d5380.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433752/images/6daafff2e4bb60f12542ae59ccc8128e.jpg",
@@ -2600,17 +2306,11 @@
       "ano_mod": 2015,
       "combustivel": "Diesel",
       "km": null,
-      "preco": 71000,
+      "preco": 73000,
       "encerra": "2026-01-08 16:09:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433751/precautionary-report/323046788508542b42962bffefd3bb08.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433751/precautionary-report/323046788508542b42962bffefd3bb08.pdf",
-        "updated_at": "2026-01-07T18:08:59.000000Z",
-        "created_at": "2026-01-07T18:08:58.000000Z",
-        "id": 43426,
-        "vehicle_id": 433751,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433751/precautionary-report/323046788508542b42962bffefd3bb08.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433751/images/89615a237b328612c33ccc6c2e5a9729.jpg",
@@ -2661,14 +2361,8 @@
       "preco": 199000,
       "encerra": "2026-01-08 15:04:00",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_12/5U8alaPy7hZWQGWhplQA.pdf",
-        "situation": "aprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_12/5U8alaPy7hZWQGWhplQA.pdf",
-        "updated_at": "2025-09-02T14:29:27.000000Z",
-        "created_at": "2025-09-02T14:29:27.000000Z",
-        "id": 33183,
-        "vehicle_id": 414547,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_12/5U8alaPy7hZWQGWhplQA.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_05_12/2m4fkmcs79ebuoofFxFH.jpg",
@@ -2723,14 +2417,8 @@
       "preco": 223000,
       "encerra": "2026-01-08 13:01:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433402/precautionary-report/0b129d7bd586a794eb9a15b2ffd28a66.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433402/precautionary-report/0b129d7bd586a794eb9a15b2ffd28a66.pdf",
-        "updated_at": "2025-12-22T19:41:11.000000Z",
-        "created_at": "2025-12-22T19:40:57.000000Z",
-        "id": 43074,
-        "vehicle_id": 433402,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433402/precautionary-report/0b129d7bd586a794eb9a15b2ffd28a66.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433402/images/ad9027f7f4d8bd7f30eeeb0770683055.jpg",
@@ -2779,14 +2467,8 @@
       "preco": 219600,
       "encerra": "2026-01-08 13:01:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432728/precautionary-report/1cbb89ad2855fd9fddeee00f3737480f.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432728/precautionary-report/1cbb89ad2855fd9fddeee00f3737480f.pdf",
-        "updated_at": "2025-12-11T20:11:02.000000Z",
-        "created_at": "2025-12-11T20:10:59.000000Z",
-        "id": 42470,
-        "vehicle_id": 432728,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432728/precautionary-report/1cbb89ad2855fd9fddeee00f3737480f.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432728/images/7439bbfaae8a1fefa9533b3c2a634e1a.jpg",
@@ -2834,14 +2516,8 @@
       "preco": 18000,
       "encerra": "2026-01-08 16:09:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/428998/precautionary-report/f73e4f095e32dc55b78295c89febe78b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428998/precautionary-report/f73e4f095e32dc55b78295c89febe78b.pdf",
-        "updated_at": "2025-10-02T19:34:52.000000Z",
-        "created_at": "2025-10-02T19:34:47.000000Z",
-        "id": 38884,
-        "vehicle_id": 428998,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428998/precautionary-report/f73e4f095e32dc55b78295c89febe78b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/428998/images/7b334f03cdd58da5b3ab0aa79f1f94bc.jpg",
@@ -2890,14 +2566,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 16:08:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431753/precautionary-report/13e81aafb692a60d96506dda9c97b9e2.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431753/precautionary-report/13e81aafb692a60d96506dda9c97b9e2.pdf",
-        "updated_at": "2025-11-19T19:12:46.000000Z",
-        "created_at": "2025-11-19T19:12:40.000000Z",
-        "id": 41473,
-        "vehicle_id": 431753,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431753/precautionary-report/13e81aafb692a60d96506dda9c97b9e2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431753/images/d2564a1005af8f956613a08baedba4e0.jpg",
@@ -2945,14 +2615,8 @@
       "preco": 15000,
       "encerra": "2026-01-08 11:45:45",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/9QpNGPQbPHdQ5M5O3NRM.pdf",
-        "situation": "reprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/9QpNGPQbPHdQ5M5O3NRM.pdf",
-        "updated_at": "2025-09-02T14:29:44.000000Z",
-        "created_at": "2025-09-02T14:29:44.000000Z",
-        "id": 34284,
-        "vehicle_id": 420137,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/9QpNGPQbPHdQ5M5O3NRM.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/9Ps7sbJ7DbfcsoEp2aI0.jpg",
@@ -3004,14 +2668,8 @@
       "preco": 13000,
       "encerra": "2026-01-08 11:45:15",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/cgaKgcylEUvWldRjGqFO.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/cgaKgcylEUvWldRjGqFO.pdf",
-        "updated_at": "2025-09-02T14:29:44.000000Z",
-        "created_at": "2025-09-02T14:29:44.000000Z",
-        "id": 34306,
-        "vehicle_id": 420139,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/cgaKgcylEUvWldRjGqFO.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_01/GcjDl5ZWHyeak9Tjt0RL.jpg",
@@ -3062,14 +2720,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 11:44:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432908/precautionary-report/0211fefbc6086694e60c38c2b089766e.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432908/precautionary-report/0211fefbc6086694e60c38c2b089766e.pdf",
-        "updated_at": "2025-12-15T17:31:22.000000Z",
-        "created_at": "2025-12-15T17:31:18.000000Z",
-        "id": 42607,
-        "vehicle_id": 432908,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432908/precautionary-report/0211fefbc6086694e60c38c2b089766e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432908/images/417b2d8bed70c1f81ceb1c43f0560d09.jpg",
@@ -3115,14 +2767,8 @@
       "preco": 12000,
       "encerra": "2026-01-08 11:44:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433286/precautionary-report/13fdedc330eb25816fecda1381bad07c.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433286/precautionary-report/13fdedc330eb25816fecda1381bad07c.pdf",
-        "updated_at": "2025-12-18T19:18:15.000000Z",
-        "created_at": "2025-12-18T19:18:13.000000Z",
-        "id": 42883,
-        "vehicle_id": 433286,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433286/precautionary-report/13fdedc330eb25816fecda1381bad07c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433286/images/98c9c72e46432bf9f806aa8ffe05469f.jpg",
@@ -3167,14 +2813,8 @@
       "preco": 34000,
       "encerra": "2026-01-08 11:43:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429204/precautionary-report/c62a48e1dbd06b717d7ec84a18fc281e.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429204/precautionary-report/c62a48e1dbd06b717d7ec84a18fc281e.pdf",
-        "updated_at": "2025-10-03T19:21:25.000000Z",
-        "created_at": "2025-10-03T19:21:22.000000Z",
-        "id": 38955,
-        "vehicle_id": 429204,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429204/precautionary-report/c62a48e1dbd06b717d7ec84a18fc281e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429204/images/62e01b40b2cf8d3f024f756e998b5b3a.jpg",
@@ -3214,14 +2854,8 @@
       "preco": 37000,
       "encerra": "2026-01-08 11:43:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431740/precautionary-report/8207562b3406acacc4fdc7f30737dac2.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431740/precautionary-report/8207562b3406acacc4fdc7f30737dac2.pdf",
-        "updated_at": "2025-11-19T18:15:27.000000Z",
-        "created_at": "2025-11-19T18:15:25.000000Z",
-        "id": 41431,
-        "vehicle_id": 431740,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431740/precautionary-report/8207562b3406acacc4fdc7f30737dac2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431740/images/cce220895f9b34c51b23fe6def2d96a2.jpg",
@@ -3270,14 +2904,8 @@
       "preco": 15000,
       "encerra": "2026-01-08 11:42:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433208/precautionary-report/2dbeaf73c6133658722705a87e1c7467.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433208/precautionary-report/2dbeaf73c6133658722705a87e1c7467.pdf",
-        "updated_at": "2025-12-18T19:52:48.000000Z",
-        "created_at": "2025-12-18T19:52:42.000000Z",
-        "id": 42902,
-        "vehicle_id": 433208,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433208/precautionary-report/2dbeaf73c6133658722705a87e1c7467.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433208/images/84450d106ac72ca8dcbade2bedb0e556.jpg",
@@ -3338,14 +2966,8 @@
       "preco": 30000,
       "encerra": "2026-01-08 11:42:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433428/precautionary-report/e7cf5c39db9dde81f4de8580100c08e2.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433428/precautionary-report/e7cf5c39db9dde81f4de8580100c08e2.pdf",
-        "updated_at": "2025-12-23T18:06:26.000000Z",
-        "created_at": "2025-12-23T18:06:09.000000Z",
-        "id": 43160,
-        "vehicle_id": 433428,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433428/precautionary-report/e7cf5c39db9dde81f4de8580100c08e2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433428/images/e4ee162c3a6f6ad2bce9d6d35610369d.jpg",
@@ -3395,14 +3017,8 @@
       "preco": 29000,
       "encerra": "2026-01-09 11:02:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432581/precautionary-report/5b95587fac69d905983fd4404d7c63c6.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432581/precautionary-report/5b95587fac69d905983fd4404d7c63c6.pdf",
-        "updated_at": "2026-01-08T13:13:15.000000Z",
-        "created_at": "2026-01-08T13:13:02.000000Z",
-        "id": 43444,
-        "vehicle_id": 432581,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432581/precautionary-report/5b95587fac69d905983fd4404d7c63c6.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432581/images/50191b8447d57a116791cd4ded76cc7e.jpg",
@@ -3480,14 +3096,8 @@
       "preco": 24000,
       "encerra": "2026-01-09 11:02:00",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_04/Q6TgiSEI1kuhiDJxjnaK.pdf",
-        "situation": "reprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_04/Q6TgiSEI1kuhiDJxjnaK.pdf",
-        "updated_at": "2025-09-02T14:28:37.000000Z",
-        "created_at": "2025-09-02T14:28:37.000000Z",
-        "id": 26663,
-        "vehicle_id": 424218,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_04/Q6TgiSEI1kuhiDJxjnaK.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_04/qnLnfaoHXejsXMfWxgqd.jpg",
@@ -3537,14 +3147,8 @@
       "preco": 30000,
       "encerra": "2026-01-09 11:01:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/427424/precautionary-report/2e82f8b54409d806b0507df5318eb0c8.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/427424/precautionary-report/2e82f8b54409d806b0507df5318eb0c8.pdf",
-        "updated_at": "2025-09-04T23:29:17.000000Z",
-        "created_at": "2025-09-04T23:29:12.000000Z",
-        "id": 37191,
-        "vehicle_id": 427424,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/427424/precautionary-report/2e82f8b54409d806b0507df5318eb0c8.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/427424/images/e0c74002f4781f4b3f15034abc286fd5.jpg",
@@ -3592,14 +3196,8 @@
       "preco": 61000,
       "encerra": "2026-01-09 11:01:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/428985/precautionary-report/4cd9e9705277c9ec3540991e22cba42f.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428985/precautionary-report/4cd9e9705277c9ec3540991e22cba42f.pdf",
-        "updated_at": "2025-10-01T17:32:24.000000Z",
-        "created_at": "2025-10-01T17:32:14.000000Z",
-        "id": 38822,
-        "vehicle_id": 428985,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428985/precautionary-report/4cd9e9705277c9ec3540991e22cba42f.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/428985/images/c8475b0b2351eceed25712018a9c9c2d.jpg",
@@ -3650,14 +3248,8 @@
       "preco": 46000,
       "encerra": "2026-01-08 11:41:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431649/precautionary-report/b0c8e6795c0f42cf022e2dbc4d6b8d5c.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431649/precautionary-report/b0c8e6795c0f42cf022e2dbc4d6b8d5c.pdf",
-        "updated_at": "2025-11-17T18:24:18.000000Z",
-        "created_at": "2025-11-17T18:24:16.000000Z",
-        "id": 41322,
-        "vehicle_id": 431649,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431649/precautionary-report/b0c8e6795c0f42cf022e2dbc4d6b8d5c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431649/images/64e1dae5fb6c464daf4cc5fd852b92e7.jpg",
@@ -3705,14 +3297,8 @@
       "preco": 37000,
       "encerra": "2026-01-08 11:40:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431647/precautionary-report/0fa43caad4800bb654c751ca14ad0d44.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431647/precautionary-report/0fa43caad4800bb654c751ca14ad0d44.pdf",
-        "updated_at": "2025-11-17T23:45:57.000000Z",
-        "created_at": "2025-11-17T23:45:52.000000Z",
-        "id": 41353,
-        "vehicle_id": 431647,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431647/precautionary-report/0fa43caad4800bb654c751ca14ad0d44.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431647/images/d44c87607d44c24dafc3c8d2dd87a82e.png",
@@ -3742,14 +3328,8 @@
       "preco": 29000,
       "encerra": "2026-01-08 16:08:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433689/precautionary-report/0c63c8a2014291b5eb739f584815aa77.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433689/precautionary-report/0c63c8a2014291b5eb739f584815aa77.pdf",
-        "updated_at": "2025-12-31T12:49:57.000000Z",
-        "created_at": "2025-12-31T12:49:55.000000Z",
-        "id": 43393,
-        "vehicle_id": 433689,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433689/precautionary-report/0c63c8a2014291b5eb739f584815aa77.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433689/images/1d7661b3b017359bb4a42a368c0ace8e.jpg",
@@ -3795,14 +3375,8 @@
       "preco": 45000,
       "encerra": "2026-01-08 16:07:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429992/precautionary-report/67949a9c9cf6b63617aa0c42cfac7bef.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429992/precautionary-report/67949a9c9cf6b63617aa0c42cfac7bef.pdf",
-        "updated_at": "2025-10-16T21:03:45.000000Z",
-        "created_at": "2025-10-16T21:03:43.000000Z",
-        "id": 39746,
-        "vehicle_id": 429992,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429992/precautionary-report/67949a9c9cf6b63617aa0c42cfac7bef.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429992/images/410bd7343f2497dc0d847ae10547f559.jpg",
@@ -3852,14 +3426,8 @@
       "preco": 56000,
       "encerra": "2026-01-08 16:07:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430457/precautionary-report/12fdd0f63a545ce13a151400e22250c8.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430457/precautionary-report/12fdd0f63a545ce13a151400e22250c8.pdf",
-        "updated_at": "2025-10-24T13:33:34.000000Z",
-        "created_at": "2025-10-24T13:33:14.000000Z",
-        "id": 40181,
-        "vehicle_id": 430457,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430457/precautionary-report/12fdd0f63a545ce13a151400e22250c8.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430457/images/df8e1f07b223af345b4538060f632ce0.jpg",
@@ -3897,14 +3465,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 11:39:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431028/precautionary-report/6001e10fe5f31471a97080d6fcf5877e.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431028/precautionary-report/6001e10fe5f31471a97080d6fcf5877e.pdf",
-        "updated_at": "2025-11-05T21:13:51.000000Z",
-        "created_at": "2025-11-05T21:13:49.000000Z",
-        "id": 40796,
-        "vehicle_id": 431028,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431028/precautionary-report/6001e10fe5f31471a97080d6fcf5877e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431028/images/3874a6293c231c07e3212c10fa07b161.jpg",
@@ -3952,14 +3514,8 @@
       "preco": 47000,
       "encerra": "2026-01-08 11:38:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/429276/precautionary-report/fa226d21a6b0aec2ec0480b0f90b9ae5.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429276/precautionary-report/fa226d21a6b0aec2ec0480b0f90b9ae5.pdf",
-        "updated_at": "2025-10-06T20:30:13.000000Z",
-        "created_at": "2025-10-06T20:28:04.000000Z",
-        "id": 39043,
-        "vehicle_id": 429276,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/429276/precautionary-report/fa226d21a6b0aec2ec0480b0f90b9ae5.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/429276/images/deb6af9c68e037b26f3064ec54db27af.jpg",
@@ -4010,14 +3566,8 @@
       "preco": 18000,
       "encerra": "2026-01-08 11:38:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432680/precautionary-report/6c518ca9c0d7442f9ea2de6dabf21ad5.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432680/precautionary-report/6c518ca9c0d7442f9ea2de6dabf21ad5.pdf",
-        "updated_at": "2025-12-10T13:22:00.000000Z",
-        "created_at": "2025-12-10T13:21:56.000000Z",
-        "id": 42390,
-        "vehicle_id": 432680,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432680/precautionary-report/6c518ca9c0d7442f9ea2de6dabf21ad5.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432680/images/c4c137ad6aad5569f614a8e9a37e67c6.jpg",
@@ -4061,14 +3611,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 11:37:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432795/precautionary-report/02fa216c813f802e6b9d13de5e0c3949.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432795/precautionary-report/02fa216c813f802e6b9d13de5e0c3949.pdf",
-        "updated_at": "2025-12-12T20:20:09.000000Z",
-        "created_at": "2025-12-12T20:20:03.000000Z",
-        "id": 42524,
-        "vehicle_id": 432795,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432795/precautionary-report/02fa216c813f802e6b9d13de5e0c3949.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432795/images/1add9c619911bbc0db62a7ebad12e325.jpg",
@@ -4113,14 +3657,8 @@
       "preco": 25000,
       "encerra": "2026-01-08 11:37:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432787/precautionary-report/02f65e0b409706358452de6908ff474b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432787/precautionary-report/02f65e0b409706358452de6908ff474b.pdf",
-        "updated_at": "2025-12-12T20:07:23.000000Z",
-        "created_at": "2025-12-12T20:07:13.000000Z",
-        "id": 42503,
-        "vehicle_id": 432787,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432787/precautionary-report/02f65e0b409706358452de6908ff474b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432787/images/91e72eb1d0d1714cc7c934b734d6a864.jpg",
@@ -4167,14 +3705,8 @@
       "preco": 33000,
       "encerra": "2026-01-08 11:36:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432723/precautionary-report/55aeed1d139323fdbf739a55000d3b1a.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432723/precautionary-report/55aeed1d139323fdbf739a55000d3b1a.pdf",
-        "updated_at": "2025-12-11T20:01:27.000000Z",
-        "created_at": "2025-12-11T20:01:09.000000Z",
-        "id": 42458,
-        "vehicle_id": 432723,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432723/precautionary-report/55aeed1d139323fdbf739a55000d3b1a.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432723/images/bc1a0cce57840a89a59dc7f9c4573d55.jpg",
@@ -4223,14 +3755,8 @@
       "preco": 45000,
       "encerra": "2026-01-08 11:36:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432657/precautionary-report/d24d90c05c201b3a90961ed7f997feae.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432657/precautionary-report/d24d90c05c201b3a90961ed7f997feae.pdf",
-        "updated_at": "2025-12-09T17:22:03.000000Z",
-        "created_at": "2025-12-09T17:21:58.000000Z",
-        "id": 42365,
-        "vehicle_id": 432657,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432657/precautionary-report/d24d90c05c201b3a90961ed7f997feae.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432657/images/6b69af25c34ca656da578ab1862a51a4.jpg",
@@ -4278,14 +3804,8 @@
       "preco": 97000,
       "encerra": "2026-01-08 11:35:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432647/precautionary-report/b279b3de7db6bae583d927dd3cce83fa.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432647/precautionary-report/b279b3de7db6bae583d927dd3cce83fa.pdf",
-        "updated_at": "2025-12-09T17:19:07.000000Z",
-        "created_at": "2025-12-09T17:19:04.000000Z",
-        "id": 42359,
-        "vehicle_id": 432647,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432647/precautionary-report/b279b3de7db6bae583d927dd3cce83fa.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432647/images/31e7838a72be2c20044bde7e8056ea7b.jpg",
@@ -4334,14 +3854,8 @@
       "preco": 32000,
       "encerra": "2026-01-08 11:35:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433252/precautionary-report/c10cd2ab9e28a1304ab364e95f39d84a.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433252/precautionary-report/c10cd2ab9e28a1304ab364e95f39d84a.pdf",
-        "updated_at": "2025-12-18T18:18:10.000000Z",
-        "created_at": "2025-12-18T18:18:09.000000Z",
-        "id": 42872,
-        "vehicle_id": 433252,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433252/precautionary-report/c10cd2ab9e28a1304ab364e95f39d84a.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433252/images/c7a8d153015f0256c99ad46e515d95a5.jpg",
@@ -4388,14 +3902,8 @@
       "preco": 29000,
       "encerra": "2026-01-08 11:34:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431644/precautionary-report/4b14f6e3e01bdc20d2ced7058a946e5f.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431644/precautionary-report/4b14f6e3e01bdc20d2ced7058a946e5f.pdf",
-        "updated_at": "2025-11-17T18:36:38.000000Z",
-        "created_at": "2025-11-17T18:36:32.000000Z",
-        "id": 41330,
-        "vehicle_id": 431644,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431644/precautionary-report/4b14f6e3e01bdc20d2ced7058a946e5f.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431644/images/36499ead2a2121ccfcfacdb12a7db638.jpg",
@@ -4444,14 +3952,8 @@
       "preco": 29000,
       "encerra": "2026-01-08 11:34:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431849/precautionary-report/b7f032fa55f2c34f9d097114130aecdc.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431849/precautionary-report/b7f032fa55f2c34f9d097114130aecdc.pdf",
-        "updated_at": "2025-11-20T23:12:57.000000Z",
-        "created_at": "2025-11-20T23:12:49.000000Z",
-        "id": 41534,
-        "vehicle_id": 431849,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431849/precautionary-report/b7f032fa55f2c34f9d097114130aecdc.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431849/images/d9d1e79b2edf09ddda137e082436fee9.jpg",
@@ -4498,14 +4000,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:33:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431847/precautionary-report/5a4a6fc17e832ade72b99762fd4cd8fc.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431847/precautionary-report/5a4a6fc17e832ade72b99762fd4cd8fc.pdf",
-        "updated_at": "2025-11-20T23:41:13.000000Z",
-        "created_at": "2025-11-20T23:41:06.000000Z",
-        "id": 41546,
-        "vehicle_id": 431847,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431847/precautionary-report/5a4a6fc17e832ade72b99762fd4cd8fc.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431847/images/2f9d5d08a2f62b55ee88bd937a7e9c2a.jpg",
@@ -4553,14 +4049,8 @@
       "preco": 26000,
       "encerra": "2026-01-08 11:33:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433380/precautionary-report/06c89e46aa40e01c9bf82b6542c440ae.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433380/precautionary-report/06c89e46aa40e01c9bf82b6542c440ae.pdf",
-        "updated_at": "2025-12-22T23:17:45.000000Z",
-        "created_at": "2025-12-22T23:17:36.000000Z",
-        "id": 43077,
-        "vehicle_id": 433380,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433380/precautionary-report/06c89e46aa40e01c9bf82b6542c440ae.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433380/images/f64420a689e330b7ca316184ace18dd4.jpg",
@@ -4606,14 +4096,8 @@
       "preco": 239000,
       "encerra": "2026-01-08 15:03:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431320/precautionary-report/33b59c7e1a499456fd4e9555d3590c22.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431320/precautionary-report/33b59c7e1a499456fd4e9555d3590c22.pdf",
-        "updated_at": "2025-11-11T15:43:07.000000Z",
-        "created_at": "2025-11-11T15:43:03.000000Z",
-        "id": 41045,
-        "vehicle_id": 431320,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431320/precautionary-report/33b59c7e1a499456fd4e9555d3590c22.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431320/images/ea80f78387ac3c93af6d488e7c2b7efd.jpg",
@@ -4673,14 +4157,8 @@
       "preco": 301000,
       "encerra": "2026-01-08 15:03:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/427805/precautionary-report/7770d7ef499b85c25b0d52404e545111.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/427805/precautionary-report/7770d7ef499b85c25b0d52404e545111.pdf",
-        "updated_at": "2025-09-16T19:54:16.000000Z",
-        "created_at": "2025-09-16T19:54:12.000000Z",
-        "id": 37758,
-        "vehicle_id": 427805,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/427805/precautionary-report/7770d7ef499b85c25b0d52404e545111.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/427805/images/9f5eaf6bdea147468b200d429accd8c4.jpg",
@@ -4741,14 +4219,8 @@
       "preco": 174000,
       "encerra": "2026-01-09 11:11:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432352/precautionary-report/c1ec328ce33bf5e2a2c004e99ec2b210.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432352/precautionary-report/c1ec328ce33bf5e2a2c004e99ec2b210.pdf",
-        "updated_at": "2025-12-03T17:15:38.000000Z",
-        "created_at": "2025-12-03T17:15:36.000000Z",
-        "id": 42056,
-        "vehicle_id": 432352,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432352/precautionary-report/c1ec328ce33bf5e2a2c004e99ec2b210.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432352/images/c26dadbe8d3a93ad970f2f8a2efc9807.jpg",
@@ -4806,17 +4278,11 @@
       "ano_mod": 2023,
       "combustivel": "Diesel",
       "km": 207123,
-      "preco": 203000,
+      "preco": 205000,
       "encerra": "2026-01-08 15:02:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433750/precautionary-report/734781991d6e6bdee83339773a84468e.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433750/precautionary-report/734781991d6e6bdee83339773a84468e.pdf",
-        "updated_at": "2026-01-07T18:38:11.000000Z",
-        "created_at": "2026-01-07T18:38:05.000000Z",
-        "id": 43433,
-        "vehicle_id": 433750,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433750/precautionary-report/734781991d6e6bdee83339773a84468e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433750/images/a79b45f7719963c70524fdbc64233a2c.jpg",
@@ -4872,14 +4338,8 @@
       "preco": 303000,
       "encerra": "2026-01-08 15:02:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433749/precautionary-report/d352f9551ba4d6481afc4aa62e8cf28d.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433749/precautionary-report/d352f9551ba4d6481afc4aa62e8cf28d.pdf",
-        "updated_at": "2026-01-07T18:39:43.000000Z",
-        "created_at": "2026-01-07T18:39:40.000000Z",
-        "id": 43434,
-        "vehicle_id": 433749,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433749/precautionary-report/d352f9551ba4d6481afc4aa62e8cf28d.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433749/images/e3ecba8e499cb6949b56ba819e157c5d.jpg",
@@ -4929,17 +4389,11 @@
       "ano_mod": 2023,
       "combustivel": "Diesel",
       "km": 357665,
-      "preco": 201000,
+      "preco": 203000,
       "encerra": "2026-01-08 15:01:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433748/precautionary-report/3fae07571afc2f352c43a7dae80b43fc.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433748/precautionary-report/3fae07571afc2f352c43a7dae80b43fc.pdf",
-        "updated_at": "2026-01-07T18:31:08.000000Z",
-        "created_at": "2026-01-07T18:31:06.000000Z",
-        "id": 43430,
-        "vehicle_id": 433748,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433748/precautionary-report/3fae07571afc2f352c43a7dae80b43fc.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433748/images/70edddc971546b6baa8f8b671366b280.jpg",
@@ -4990,17 +4444,11 @@
       "ano_mod": 2023,
       "combustivel": "Diesel",
       "km": 369084,
-      "preco": 201000,
+      "preco": 203000,
       "encerra": "2026-01-08 15:01:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433747/precautionary-report/2c7e5e4b4f1b1c5dbacfac680b62a0f6.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433747/precautionary-report/2c7e5e4b4f1b1c5dbacfac680b62a0f6.pdf",
-        "updated_at": "2026-01-07T18:36:07.000000Z",
-        "created_at": "2026-01-07T18:36:04.000000Z",
-        "id": 43432,
-        "vehicle_id": 433747,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433747/precautionary-report/2c7e5e4b4f1b1c5dbacfac680b62a0f6.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433747/images/cf82060410781d4aa5afd5d00214821a.jpg",
@@ -5057,14 +4505,8 @@
       "preco": 223000,
       "encerra": "2026-01-08 15:00:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433746/precautionary-report/16f7b7f2779c38d279dc674e83faee43.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433746/precautionary-report/16f7b7f2779c38d279dc674e83faee43.pdf",
-        "updated_at": "2026-01-07T18:33:56.000000Z",
-        "created_at": "2026-01-07T18:33:53.000000Z",
-        "id": 43431,
-        "vehicle_id": 433746,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433746/precautionary-report/16f7b7f2779c38d279dc674e83faee43.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433746/images/6c4a19661b4b6680b97f0c92c65deeff.jpg",
@@ -5122,14 +4564,8 @@
       "preco": 24000,
       "encerra": "2026-01-08 16:06:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433745/precautionary-report/c4d479f14561f6ebb5bd0718fd9fcd8f.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433745/precautionary-report/c4d479f14561f6ebb5bd0718fd9fcd8f.pdf",
-        "updated_at": "2026-01-07T18:04:03.000000Z",
-        "created_at": "2026-01-07T18:04:01.000000Z",
-        "id": 43424,
-        "vehicle_id": 433745,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433745/precautionary-report/c4d479f14561f6ebb5bd0718fd9fcd8f.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433745/images/8653fb00f657eb73f6edc8cd8e6c854b.jpg",
@@ -5176,14 +4612,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 16:06:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433744/precautionary-report/4356a8f16907cbcbd986c707414fefdd.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433744/precautionary-report/4356a8f16907cbcbd986c707414fefdd.pdf",
-        "updated_at": "2026-01-07T18:06:21.000000Z",
-        "created_at": "2026-01-07T18:06:19.000000Z",
-        "id": 43425,
-        "vehicle_id": 433744,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433744/precautionary-report/4356a8f16907cbcbd986c707414fefdd.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433744/images/4d0f65212353bee64863f9525e5ac387.jpg",
@@ -5230,14 +4660,8 @@
       "preco": 33000,
       "encerra": "2026-01-08 16:05:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433743/precautionary-report/bcd28e2012b1fd4bc70b71b6b7b4d108.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433743/precautionary-report/bcd28e2012b1fd4bc70b71b6b7b4d108.pdf",
-        "updated_at": "2026-01-07T18:00:27.000000Z",
-        "created_at": "2026-01-07T18:00:24.000000Z",
-        "id": 43423,
-        "vehicle_id": 433743,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433743/precautionary-report/bcd28e2012b1fd4bc70b71b6b7b4d108.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433743/images/c8526994e46bcfdc0cc8393caed08cf1.jpg",
@@ -5287,14 +4711,8 @@
       "preco": 95000,
       "encerra": "2026-01-08 16:05:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433742/precautionary-report/262d5e36cf16de98c9c655359b45092b.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433742/precautionary-report/262d5e36cf16de98c9c655359b45092b.pdf",
-        "updated_at": "2026-01-07T18:16:09.000000Z",
-        "created_at": "2026-01-07T18:16:07.000000Z",
-        "id": 43428,
-        "vehicle_id": 433742,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433742/precautionary-report/262d5e36cf16de98c9c655359b45092b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433742/images/141aa0c7e062b6fea349c6c4c06c18ba.jpg",
@@ -5343,14 +4761,8 @@
       "preco": 25000,
       "encerra": "2026-01-08 16:04:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433740/precautionary-report/75d2debf14f29e410c0eaa7ba8770802.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433740/precautionary-report/75d2debf14f29e410c0eaa7ba8770802.pdf",
-        "updated_at": "2026-01-07T17:57:52.000000Z",
-        "created_at": "2026-01-07T17:57:49.000000Z",
-        "id": 43422,
-        "vehicle_id": 433740,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433740/precautionary-report/75d2debf14f29e410c0eaa7ba8770802.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433740/images/634fe96e1cd29bf9ed9f4900dc9d733a.jpg",
@@ -5397,17 +4809,11 @@
       "ano_mod": 2018,
       "combustivel": "Alcool / Gasolina",
       "km": 100552,
-      "preco": 23000,
+      "preco": 24000,
       "encerra": "2026-01-08 16:04:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433739/precautionary-report/874a885bc250800014e58b2d724115b0.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433739/precautionary-report/874a885bc250800014e58b2d724115b0.pdf",
-        "updated_at": "2026-01-07T17:55:08.000000Z",
-        "created_at": "2026-01-07T17:55:06.000000Z",
-        "id": 43421,
-        "vehicle_id": 433739,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433739/precautionary-report/874a885bc250800014e58b2d724115b0.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433739/images/b051016556f3c6171bb44ac25992eae2.jpg",
@@ -5458,14 +4864,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 16:03:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433738/precautionary-report/8ae381c7dbb2e76fe9447f6ccaa68eb9.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433738/precautionary-report/8ae381c7dbb2e76fe9447f6ccaa68eb9.pdf",
-        "updated_at": "2026-01-07T18:13:27.000000Z",
-        "created_at": "2026-01-07T18:13:24.000000Z",
-        "id": 43427,
-        "vehicle_id": 433738,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433738/precautionary-report/8ae381c7dbb2e76fe9447f6ccaa68eb9.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433738/images/d6fa4ac39791985e76f7d29fa4f3a977.jpg",
@@ -5511,14 +4911,8 @@
       "preco": 23000,
       "encerra": "2026-01-08 16:03:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433737/precautionary-report/d88c6ec9d4762ba3a0fd397d7aa96dab.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433737/precautionary-report/d88c6ec9d4762ba3a0fd397d7aa96dab.pdf",
-        "updated_at": "2026-01-07T17:46:22.000000Z",
-        "created_at": "2026-01-07T17:46:18.000000Z",
-        "id": 43418,
-        "vehicle_id": 433737,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433737/precautionary-report/d88c6ec9d4762ba3a0fd397d7aa96dab.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433737/images/e13ce036270bb3a746268c4a72811add.jpg",
@@ -5563,14 +4957,8 @@
       "preco": 54000,
       "encerra": "2026-01-08 16:02:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433736/precautionary-report/69d8afad3276a1daed2968d43695f0a7.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433736/precautionary-report/69d8afad3276a1daed2968d43695f0a7.pdf",
-        "updated_at": "2026-01-07T18:27:41.000000Z",
-        "created_at": "2026-01-07T18:27:38.000000Z",
-        "id": 43429,
-        "vehicle_id": 433736,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433736/precautionary-report/69d8afad3276a1daed2968d43695f0a7.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433736/images/fde1ca4c93bf2b718333b9408ceb99a0.jpg",
@@ -5620,14 +5008,8 @@
       "preco": 29000,
       "encerra": "2026-01-08 16:02:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433735/precautionary-report/ad9db4e7b8c41d9940daf13033d0a14c.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433735/precautionary-report/ad9db4e7b8c41d9940daf13033d0a14c.pdf",
-        "updated_at": "2026-01-07T17:50:49.000000Z",
-        "created_at": "2026-01-07T17:50:46.000000Z",
-        "id": 43419,
-        "vehicle_id": 433735,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433735/precautionary-report/ad9db4e7b8c41d9940daf13033d0a14c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433735/images/d3e17bc5ef47878cac8d03ea1cf3e80b.jpg",
@@ -5678,14 +5060,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 16:01:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433734/precautionary-report/c90e976445b3992d7307d5ccb91d18fb.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433734/precautionary-report/c90e976445b3992d7307d5ccb91d18fb.pdf",
-        "updated_at": "2026-01-07T17:42:58.000000Z",
-        "created_at": "2026-01-07T17:42:56.000000Z",
-        "id": 43417,
-        "vehicle_id": 433734,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433734/precautionary-report/c90e976445b3992d7307d5ccb91d18fb.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433734/images/f0d1fcce556ae605bfac053cb1891f22.jpg",
@@ -5732,14 +5108,8 @@
       "preco": 33000,
       "encerra": "2026-01-08 16:01:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433733/precautionary-report/8611f1bf3734462228fd9c20c7698003.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433733/precautionary-report/8611f1bf3734462228fd9c20c7698003.pdf",
-        "updated_at": "2026-01-07T17:53:13.000000Z",
-        "created_at": "2026-01-07T17:53:10.000000Z",
-        "id": 43420,
-        "vehicle_id": 433733,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433733/precautionary-report/8611f1bf3734462228fd9c20c7698003.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433733/images/dc3b0c8fa2fba10d745eaafaee888f99.jpg",
@@ -5790,14 +5160,8 @@
       "preco": 23000,
       "encerra": "2026-01-08 16:00:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433732/precautionary-report/3856fa75dc2d895895e207396e04845a.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433732/precautionary-report/3856fa75dc2d895895e207396e04845a.pdf",
-        "updated_at": "2026-01-07T17:32:59.000000Z",
-        "created_at": "2026-01-07T17:32:57.000000Z",
-        "id": 43415,
-        "vehicle_id": 433732,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433732/precautionary-report/3856fa75dc2d895895e207396e04845a.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433732/images/8484edd2cc0787ec407220834c61562e.jpg",
@@ -5845,14 +5209,8 @@
       "preco": 35000,
       "encerra": "2026-01-09 11:00:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433690/precautionary-report/f097e0074eab3dc63ee03220eb2d56f9.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433690/precautionary-report/f097e0074eab3dc63ee03220eb2d56f9.pdf",
-        "updated_at": "2025-12-31T12:48:36.000000Z",
-        "created_at": "2025-12-31T12:48:34.000000Z",
-        "id": 43392,
-        "vehicle_id": 433690,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433690/precautionary-report/f097e0074eab3dc63ee03220eb2d56f9.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433690/images/89d0c28ada5f573678752a2df6db374e.jpg",
@@ -5900,14 +5258,8 @@
       "preco": 11000,
       "encerra": "2026-01-08 11:32:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432007/precautionary-report/b87d92a7d169ca1d79910463e4b5eadd.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432007/precautionary-report/b87d92a7d169ca1d79910463e4b5eadd.pdf",
-        "updated_at": "2025-11-24T14:54:33.000000Z",
-        "created_at": "2025-11-24T14:54:28.000000Z",
-        "id": 41673,
-        "vehicle_id": 432007,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432007/precautionary-report/b87d92a7d169ca1d79910463e4b5eadd.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432007/images/0fd799fa972b37d3fc0e38d039857f63.jpg",
@@ -5953,14 +5305,8 @@
       "preco": 13000,
       "encerra": "2026-01-08 11:32:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431591/precautionary-report/3c5d40e5f5194f893336b8df7d55b00c.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431591/precautionary-report/3c5d40e5f5194f893336b8df7d55b00c.pdf",
-        "updated_at": "2025-11-14T21:13:31.000000Z",
-        "created_at": "2025-11-14T21:13:28.000000Z",
-        "id": 41300,
-        "vehicle_id": 431591,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431591/precautionary-report/3c5d40e5f5194f893336b8df7d55b00c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431591/images/bd9e567e171160f82e9fd2affe7d1c0a.jpg",
@@ -6008,14 +5354,8 @@
       "preco": 15000,
       "encerra": "2026-01-08 11:31:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431254/precautionary-report/62bac88bc103279028d6c6006673e042.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431254/precautionary-report/62bac88bc103279028d6c6006673e042.pdf",
-        "updated_at": "2025-11-10T19:26:57.000000Z",
-        "created_at": "2025-11-10T19:26:47.000000Z",
-        "id": 40988,
-        "vehicle_id": 431254,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431254/precautionary-report/62bac88bc103279028d6c6006673e042.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431254/images/86729c79fe34abc44d3ee4b473eb0ffd.jpg",
@@ -6065,14 +5405,8 @@
       "preco": 10000,
       "encerra": "2026-01-08 11:31:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430301/precautionary-report/9ccf0ed2199c02cb4ce7ab97b3fd9778.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430301/precautionary-report/9ccf0ed2199c02cb4ce7ab97b3fd9778.pdf",
-        "updated_at": "2025-10-23T19:31:55.000000Z",
-        "created_at": "2025-10-23T19:31:52.000000Z",
-        "id": 40067,
-        "vehicle_id": 430301,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430301/precautionary-report/9ccf0ed2199c02cb4ce7ab97b3fd9778.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430301/images/4f80983e95705073a5a878bf1c43bcf8.jpg",
@@ -6121,14 +5455,8 @@
       "preco": 14000,
       "encerra": "2026-01-08 11:30:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431754/precautionary-report/9703d15eb60ddb42775133cfb249b568.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431754/precautionary-report/9703d15eb60ddb42775133cfb249b568.pdf",
-        "updated_at": "2025-11-19T19:14:12.000000Z",
-        "created_at": "2025-11-19T19:14:05.000000Z",
-        "id": 41475,
-        "vehicle_id": 431754,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431754/precautionary-report/9703d15eb60ddb42775133cfb249b568.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431754/images/f74fc630a5cf7dc5e97725da343bfe76.jpg",
@@ -6177,14 +5505,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:30:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432467/precautionary-report/d5b71fd936e56a627b064343eee7deca.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432467/precautionary-report/d5b71fd936e56a627b064343eee7deca.pdf",
-        "updated_at": "2025-12-04T20:17:53.000000Z",
-        "created_at": "2025-12-04T20:17:38.000000Z",
-        "id": 42161,
-        "vehicle_id": 432467,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432467/precautionary-report/d5b71fd936e56a627b064343eee7deca.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432467/images/8f6387e89c362a8e545687a271ae161a.jpg",
@@ -6234,14 +5556,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 11:29:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432462/precautionary-report/60c22d59f98c539b8e630a8c32a49a8c.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432462/precautionary-report/60c22d59f98c539b8e630a8c32a49a8c.pdf",
-        "updated_at": "2025-12-04T20:28:08.000000Z",
-        "created_at": "2025-12-04T20:27:32.000000Z",
-        "id": 42172,
-        "vehicle_id": 432462,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432462/precautionary-report/60c22d59f98c539b8e630a8c32a49a8c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432462/images/f3513ed506a513ccc2572f5d242f56c5.jpg",
@@ -6288,14 +5604,8 @@
       "preco": 24000,
       "encerra": "2026-01-08 11:29:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432427/precautionary-report/8e50343586902f0eaa1b2ceaa5098dd0.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432427/precautionary-report/8e50343586902f0eaa1b2ceaa5098dd0.pdf",
-        "updated_at": "2025-12-04T21:45:43.000000Z",
-        "created_at": "2025-12-04T21:45:41.000000Z",
-        "id": 42238,
-        "vehicle_id": 432427,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432427/precautionary-report/8e50343586902f0eaa1b2ceaa5098dd0.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432427/images/ba9bbac684624a3d6e9eba6d1a7e6d9c.jpg",
@@ -6344,14 +5654,8 @@
       "preco": 31000,
       "encerra": "2026-01-08 11:29:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432422/precautionary-report/3f4bda6a6f884e5c0d9c1c4d121cc919.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432422/precautionary-report/3f4bda6a6f884e5c0d9c1c4d121cc919.pdf",
-        "updated_at": "2025-12-04T21:13:38.000000Z",
-        "created_at": "2025-12-04T21:13:37.000000Z",
-        "id": 42215,
-        "vehicle_id": 432422,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432422/precautionary-report/3f4bda6a6f884e5c0d9c1c4d121cc919.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432422/images/6f043d7cb180497c1e8722aa97229d6e.jpg",
@@ -6397,14 +5701,8 @@
       "preco": 15000,
       "encerra": "2026-01-08 11:28:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432398/precautionary-report/b6570ff992166a310867c7285459c1dd.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432398/precautionary-report/b6570ff992166a310867c7285459c1dd.pdf",
-        "updated_at": "2025-12-04T20:12:13.000000Z",
-        "created_at": "2025-12-04T20:12:05.000000Z",
-        "id": 42151,
-        "vehicle_id": 432398,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432398/precautionary-report/b6570ff992166a310867c7285459c1dd.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432398/images/de9255b6c56ba07c7b5ffed025890b7b.jpg",
@@ -6450,14 +5748,8 @@
       "preco": 23000,
       "encerra": "2026-01-08 11:28:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432307/precautionary-report/6056868042fc1a5c504c70154e7bb78b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432307/precautionary-report/6056868042fc1a5c504c70154e7bb78b.pdf",
-        "updated_at": "2025-12-02T19:11:59.000000Z",
-        "created_at": "2025-12-02T19:11:58.000000Z",
-        "id": 42018,
-        "vehicle_id": 432307,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432307/precautionary-report/6056868042fc1a5c504c70154e7bb78b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432307/images/473fd664ec25ebb5b0449bdd93cf1bfb.jpg",
@@ -6508,14 +5800,8 @@
       "preco": 10000,
       "encerra": "2026-01-08 11:27:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432305/precautionary-report/45e32a59c58db61178fa602834049716.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432305/precautionary-report/45e32a59c58db61178fa602834049716.pdf",
-        "updated_at": "2025-12-02T19:06:46.000000Z",
-        "created_at": "2025-12-02T19:06:10.000000Z",
-        "id": 42012,
-        "vehicle_id": 432305,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432305/precautionary-report/45e32a59c58db61178fa602834049716.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432305/images/8ae910b4a07631cdbb3c4963af76b59d.jpg",
@@ -6562,14 +5848,8 @@
       "preco": 15000,
       "encerra": "2026-01-08 11:27:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432914/precautionary-report/4506dbd6555e77e3e646c560da9cf32e.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432914/precautionary-report/4506dbd6555e77e3e646c560da9cf32e.pdf",
-        "updated_at": "2025-12-15T15:28:53.000000Z",
-        "created_at": "2025-12-15T15:28:51.000000Z",
-        "id": 42594,
-        "vehicle_id": 432914,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432914/precautionary-report/4506dbd6555e77e3e646c560da9cf32e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432914/images/f4aaa74ab9b56f11f00f9ad76f16ab33.jpg",
@@ -6617,14 +5897,8 @@
       "preco": 12000,
       "encerra": "2026-01-08 11:26:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433296/precautionary-report/c9441cfe1385442125a644628a8069d5.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433296/precautionary-report/c9441cfe1385442125a644628a8069d5.pdf",
-        "updated_at": "2025-12-18T20:25:26.000000Z",
-        "created_at": "2025-12-18T20:25:24.000000Z",
-        "id": 42939,
-        "vehicle_id": 433296,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433296/precautionary-report/c9441cfe1385442125a644628a8069d5.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433296/images/496617ad832750395ffbb0a329e513b9.jpg",
@@ -6673,14 +5947,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 11:26:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433291/precautionary-report/1750fe66a0fb0878b867b64d7ec6abc9.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433291/precautionary-report/1750fe66a0fb0878b867b64d7ec6abc9.pdf",
-        "updated_at": "2025-12-18T19:44:39.000000Z",
-        "created_at": "2025-12-18T19:44:37.000000Z",
-        "id": 42893,
-        "vehicle_id": 433291,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433291/precautionary-report/1750fe66a0fb0878b867b64d7ec6abc9.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433291/images/6b83f5e6323b815d6e3d33e495fd554e.jpg",
@@ -6730,14 +5998,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 11:25:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433285/precautionary-report/5429238448de2fc539cb856ee5aaf791.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433285/precautionary-report/5429238448de2fc539cb856ee5aaf791.pdf",
-        "updated_at": "2025-12-18T19:54:54.000000Z",
-        "created_at": "2025-12-18T19:54:45.000000Z",
-        "id": 42903,
-        "vehicle_id": 433285,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433285/precautionary-report/5429238448de2fc539cb856ee5aaf791.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433285/images/f6e3d9f01f1b4cc96dcbad97e04148f6.jpg",
@@ -6787,14 +6049,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:25:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433281/precautionary-report/588b4d6b196de6e89c5777e84b56005c.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433281/precautionary-report/588b4d6b196de6e89c5777e84b56005c.pdf",
-        "updated_at": "2025-12-18T20:26:31.000000Z",
-        "created_at": "2025-12-18T20:26:29.000000Z",
-        "id": 42941,
-        "vehicle_id": 433281,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433281/precautionary-report/588b4d6b196de6e89c5777e84b56005c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433281/images/bda484c9d30452faaa367214956e4802.jpg",
@@ -6844,14 +6100,8 @@
       "preco": 10000,
       "encerra": "2026-01-08 11:24:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433279/precautionary-report/1b892f374e449d9dae92671a6896156b.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433279/precautionary-report/1b892f374e449d9dae92671a6896156b.pdf",
-        "updated_at": "2025-12-18T19:45:55.000000Z",
-        "created_at": "2025-12-18T19:45:53.000000Z",
-        "id": 42894,
-        "vehicle_id": 433279,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433279/precautionary-report/1b892f374e449d9dae92671a6896156b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433279/images/061d17d2659bfa19c91b159c4dfbd698.jpg",
@@ -6898,14 +6148,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:24:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433278/precautionary-report/aecb5886fb4243e526ab15728e23d122.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433278/precautionary-report/aecb5886fb4243e526ab15728e23d122.pdf",
-        "updated_at": "2025-12-18T19:42:31.000000Z",
-        "created_at": "2025-12-18T19:41:28.000000Z",
-        "id": 42890,
-        "vehicle_id": 433278,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433278/precautionary-report/aecb5886fb4243e526ab15728e23d122.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433278/images/b9d37a532397462c95366a92cad35be7.jpg",
@@ -6954,14 +6198,8 @@
       "preco": 102000,
       "encerra": "2026-01-08 11:23:30",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_04/EHDxzBrJ44cPyZJGm3Mb.pdf",
-        "situation": "reprovado",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_04/EHDxzBrJ44cPyZJGm3Mb.pdf",
-        "updated_at": "2025-09-02T14:29:57.000000Z",
-        "created_at": "2025-09-02T14:29:57.000000Z",
-        "id": 34990,
-        "vehicle_id": 420427,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_04/EHDxzBrJ44cPyZJGm3Mb.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_07_04/KLAEAlU1wIqUVeOOgmnW.jpg",
@@ -7011,14 +6249,8 @@
       "preco": 39000,
       "encerra": "2026-01-08 11:23:00",
       "laudo": {
-        "file": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_28/wP5sLNcc6fZnknKBCaiN.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_28/wP5sLNcc6fZnknKBCaiN.pdf",
-        "updated_at": "2025-09-02T14:28:49.000000Z",
-        "created_at": "2025-09-02T14:28:49.000000Z",
-        "id": 28647,
-        "vehicle_id": 427129,
-        "deleted_at": null
+        "url": "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_28/wP5sLNcc6fZnknKBCaiN.pdf",
+        "status": null
       },
       "fotos": [
         "https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2025_08_28/PuVt62rxTpPEmp0CVhrf.jpg",
@@ -7067,14 +6299,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 11:22:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431177/precautionary-report/b123a535f3192b895819e079c4a4586b.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431177/precautionary-report/b123a535f3192b895819e079c4a4586b.pdf",
-        "updated_at": "2025-11-07T17:22:57.000000Z",
-        "created_at": "2025-11-07T17:22:22.000000Z",
-        "id": 40909,
-        "vehicle_id": 431177,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431177/precautionary-report/b123a535f3192b895819e079c4a4586b.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431177/images/9ad89f50c7c15eb36a6be726d9d456a5.jpg",
@@ -7125,14 +6351,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 11:21:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431798/precautionary-report/77d197be540ebc70b192956f36b00364.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431798/precautionary-report/77d197be540ebc70b192956f36b00364.pdf",
-        "updated_at": "2025-11-20T20:31:00.000000Z",
-        "created_at": "2025-11-20T20:30:49.000000Z",
-        "id": 41499,
-        "vehicle_id": 431798,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431798/precautionary-report/77d197be540ebc70b192956f36b00364.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431798/images/c57c4e116b3c6aa20440a20f49799819.jpg",
@@ -7181,14 +6401,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:21:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430948/precautionary-report/1097d73ef32bd5191823a03c79a9be09.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430948/precautionary-report/1097d73ef32bd5191823a03c79a9be09.pdf",
-        "updated_at": "2025-11-05T16:55:49.000000Z",
-        "created_at": "2025-11-05T16:55:38.000000Z",
-        "id": 40690,
-        "vehicle_id": 430948,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430948/precautionary-report/1097d73ef32bd5191823a03c79a9be09.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430948/images/ed92664eabfb128636de3b89e0262e5d.jpg",
@@ -7237,14 +6451,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 11:20:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432589/precautionary-report/5fa4096499c64c78e7e0e3716e2d0e09.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432589/precautionary-report/5fa4096499c64c78e7e0e3716e2d0e09.pdf",
-        "updated_at": "2025-12-08T19:34:22.000000Z",
-        "created_at": "2025-12-08T19:34:18.000000Z",
-        "id": 42299,
-        "vehicle_id": 432589,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432589/precautionary-report/5fa4096499c64c78e7e0e3716e2d0e09.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432589/images/030b22276a7b09147b197c6b501323b6.jpg",
@@ -7295,14 +6503,8 @@
       "preco": 9000,
       "encerra": "2026-01-08 11:20:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432761/precautionary-report/038d47e889842b38f536e182f28496ad.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432761/precautionary-report/038d47e889842b38f536e182f28496ad.pdf",
-        "updated_at": "2025-12-11T20:02:57.000000Z",
-        "created_at": "2025-12-11T20:02:53.000000Z",
-        "id": 42460,
-        "vehicle_id": 432761,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432761/precautionary-report/038d47e889842b38f536e182f28496ad.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432761/images/e6a794bfe6d46b0ca9168872944317aa.jpg",
@@ -7339,14 +6541,8 @@
       "preco": 20000,
       "encerra": "2026-01-08 11:19:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433414/precautionary-report/2ab6f07a2dfdd7e6e492daf5e0fc7823.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433414/precautionary-report/2ab6f07a2dfdd7e6e492daf5e0fc7823.pdf",
-        "updated_at": "2025-12-23T15:16:41.000000Z",
-        "created_at": "2025-12-23T15:16:37.000000Z",
-        "id": 43090,
-        "vehicle_id": 433414,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433414/precautionary-report/2ab6f07a2dfdd7e6e492daf5e0fc7823.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433414/images/3d9125bd1800cde1a35d24f8845871fa.jpg",
@@ -7396,14 +6592,8 @@
       "preco": 49000,
       "encerra": "2026-01-08 11:19:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433413/precautionary-report/e25f2ebfcc41fd9304e6daaf0b131344.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433413/precautionary-report/e25f2ebfcc41fd9304e6daaf0b131344.pdf",
-        "updated_at": "2025-12-23T15:06:58.000000Z",
-        "created_at": "2025-12-23T15:06:56.000000Z",
-        "id": 43086,
-        "vehicle_id": 433413,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433413/precautionary-report/e25f2ebfcc41fd9304e6daaf0b131344.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433413/images/b1453c55045fc65109fc055409550f7d.jpg",
@@ -7451,14 +6641,8 @@
       "preco": 20000,
       "encerra": "2026-01-08 11:18:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433412/precautionary-report/0d59ef7f2411f28f7d95e98a9ca7eef2.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433412/precautionary-report/0d59ef7f2411f28f7d95e98a9ca7eef2.pdf",
-        "updated_at": "2025-12-23T14:58:45.000000Z",
-        "created_at": "2025-12-23T14:58:43.000000Z",
-        "id": 43082,
-        "vehicle_id": 433412,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433412/precautionary-report/0d59ef7f2411f28f7d95e98a9ca7eef2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433412/images/9b97d49794b81c75e832d99416adc12f.jpg",
@@ -7508,14 +6692,8 @@
       "preco": 34000,
       "encerra": "2026-01-08 11:18:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433630/precautionary-report/bcb0ba2099773d53056888a5a48cf7eb.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433630/precautionary-report/bcb0ba2099773d53056888a5a48cf7eb.pdf",
-        "updated_at": "2025-12-29T15:22:11.000000Z",
-        "created_at": "2025-12-29T15:22:02.000000Z",
-        "id": 43286,
-        "vehicle_id": 433630,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433630/precautionary-report/bcb0ba2099773d53056888a5a48cf7eb.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433630/images/0d373c8bd112833cfe57bdaeea4c6c8e.jpg",
@@ -7561,14 +6739,8 @@
       "preco": 35475,
       "encerra": "2026-01-08 11:17:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433629/precautionary-report/3043cbe8644a2db5f12916e899ad3333.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433629/precautionary-report/3043cbe8644a2db5f12916e899ad3333.pdf",
-        "updated_at": "2025-12-29T15:57:19.000000Z",
-        "created_at": "2025-12-29T15:57:14.000000Z",
-        "id": 43320,
-        "vehicle_id": 433629,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433629/precautionary-report/3043cbe8644a2db5f12916e899ad3333.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433629/images/61eb47afb9068c6a99adab7d175cefa0.jpg",
@@ -7617,14 +6789,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:17:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432985/precautionary-report/50c8a9d75e25a70a661277b42c1a8494.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432985/precautionary-report/50c8a9d75e25a70a661277b42c1a8494.pdf",
-        "updated_at": "2026-01-06T20:57:11.000000Z",
-        "created_at": "2026-01-06T20:57:00.000000Z",
-        "id": 43413,
-        "vehicle_id": 432985,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432985/precautionary-report/50c8a9d75e25a70a661277b42c1a8494.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432985/images/a747a4fa01a6e0adcc0051da2bb0e816.jpg",
@@ -7674,14 +6840,8 @@
       "preco": 25000,
       "encerra": "2026-01-08 11:16:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432503/precautionary-report/cbd2121b59b5e2fa2b969b32fec5cc45.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432503/precautionary-report/cbd2121b59b5e2fa2b969b32fec5cc45.pdf",
-        "updated_at": "2025-12-04T20:03:12.000000Z",
-        "created_at": "2025-12-04T20:03:10.000000Z",
-        "id": 42136,
-        "vehicle_id": 432503,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432503/precautionary-report/cbd2121b59b5e2fa2b969b32fec5cc45.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432503/images/7b94515dbca8828310177732f33b5988.jpg",
@@ -7727,14 +6887,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 11:16:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432483/precautionary-report/58facf18b0c495203817e93648b221fe.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432483/precautionary-report/58facf18b0c495203817e93648b221fe.pdf",
-        "updated_at": "2025-12-04T19:30:58.000000Z",
-        "created_at": "2025-12-04T19:30:56.000000Z",
-        "id": 42110,
-        "vehicle_id": 432483,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432483/precautionary-report/58facf18b0c495203817e93648b221fe.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432483/images/14d455e8199f5abee43c2c2c9816e4ad.jpg",
@@ -7783,14 +6937,8 @@
       "preco": 27000,
       "encerra": "2026-01-08 11:15:45",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433004/precautionary-report/3f1103006c421260d4d34b5a6e8e257d.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433004/precautionary-report/3f1103006c421260d4d34b5a6e8e257d.pdf",
-        "updated_at": "2025-12-16T21:47:02.000000Z",
-        "created_at": "2025-12-16T21:47:00.000000Z",
-        "id": 42727,
-        "vehicle_id": 433004,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433004/precautionary-report/3f1103006c421260d4d34b5a6e8e257d.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433004/images/6ae20809f78191432d141fd0784b5d45.jpg",
@@ -7832,14 +6980,8 @@
       "preco": 28000,
       "encerra": "2026-01-08 11:15:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432049/precautionary-report/f0389ed076a0308060555625708dfab2.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432049/precautionary-report/f0389ed076a0308060555625708dfab2.pdf",
-        "updated_at": "2025-11-25T21:34:31.000000Z",
-        "created_at": "2025-11-25T21:34:29.000000Z",
-        "id": 41756,
-        "vehicle_id": 432049,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432049/precautionary-report/f0389ed076a0308060555625708dfab2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432049/images/cd1b44a551ba4d061d625f9e7f36167c.jpg",
@@ -7886,14 +7028,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 11:15:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432331/precautionary-report/72059f062c03c079772cdf8e7a32a191.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432331/precautionary-report/72059f062c03c079772cdf8e7a32a191.pdf",
-        "updated_at": "2025-12-02T19:17:48.000000Z",
-        "created_at": "2025-12-02T19:17:43.000000Z",
-        "id": 42023,
-        "vehicle_id": 432331,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432331/precautionary-report/72059f062c03c079772cdf8e7a32a191.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432331/images/b2e49181625e052ba4ec1061fb2dd0fb.jpg",
@@ -7943,14 +7079,8 @@
       "preco": 28000,
       "encerra": "2026-01-08 11:14:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433699/precautionary-report/8ef7ccac011f8dd33f31ef546743a412.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433699/precautionary-report/8ef7ccac011f8dd33f31ef546743a412.pdf",
-        "updated_at": "2025-12-31T12:12:52.000000Z",
-        "created_at": "2025-12-31T12:12:49.000000Z",
-        "id": 43379,
-        "vehicle_id": 433699,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433699/precautionary-report/8ef7ccac011f8dd33f31ef546743a412.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433699/images/dba467910dc11ebfd6db8c502d62141a.jpg",
@@ -8004,14 +7134,8 @@
       "preco": 38000,
       "encerra": "2026-01-08 11:14:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432917/precautionary-report/34ce06ca3243fe6a45c6eaa3ffcec861.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432917/precautionary-report/34ce06ca3243fe6a45c6eaa3ffcec861.pdf",
-        "updated_at": "2025-12-15T18:18:04.000000Z",
-        "created_at": "2025-12-15T18:18:01.000000Z",
-        "id": 42646,
-        "vehicle_id": 432917,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432917/precautionary-report/34ce06ca3243fe6a45c6eaa3ffcec861.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432917/images/1d5dc6ab75425a33860bf71168567ee5.jpg",
@@ -8063,14 +7187,8 @@
       "preco": 20000,
       "encerra": "2026-01-08 11:13:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/428043/precautionary-report/249435b585e376068b5ad2ce16ec5a56.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428043/precautionary-report/249435b585e376068b5ad2ce16ec5a56.pdf",
-        "updated_at": "2025-09-17T19:30:13.000000Z",
-        "created_at": "2025-09-17T19:30:06.000000Z",
-        "id": 37932,
-        "vehicle_id": 428043,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/428043/precautionary-report/249435b585e376068b5ad2ce16ec5a56.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/428043/images/8b775dd8beaba13a1b75021afa694db7.jpg",
@@ -8121,14 +7239,8 @@
       "preco": 26000,
       "encerra": "2026-01-08 11:13:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433420/precautionary-report/b1b9da0418e3fbc24ae868bd0ea8b05c.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433420/precautionary-report/b1b9da0418e3fbc24ae868bd0ea8b05c.pdf",
-        "updated_at": "2025-12-23T17:44:38.000000Z",
-        "created_at": "2025-12-23T17:44:35.000000Z",
-        "id": 43134,
-        "vehicle_id": 433420,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433420/precautionary-report/b1b9da0418e3fbc24ae868bd0ea8b05c.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433420/images/ef3cd0feb0c6747a1b698e56725b6083.jpg",
@@ -8176,14 +7288,8 @@
       "preco": 16000,
       "encerra": "2026-01-08 11:12:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433417/precautionary-report/95833b1bd75fd222fffde5eeae3c0dd9.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433417/precautionary-report/95833b1bd75fd222fffde5eeae3c0dd9.pdf",
-        "updated_at": "2025-12-23T17:20:34.000000Z",
-        "created_at": "2025-12-23T17:20:32.000000Z",
-        "id": 43112,
-        "vehicle_id": 433417,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433417/precautionary-report/95833b1bd75fd222fffde5eeae3c0dd9.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433417/images/7c42be037f4967192ea0a9773ed9cbee.jpg",
@@ -8231,14 +7337,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 11:12:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433415/precautionary-report/4d242b9b7b4ec50239ac0ce0aa6f3990.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433415/precautionary-report/4d242b9b7b4ec50239ac0ce0aa6f3990.pdf",
-        "updated_at": "2025-12-23T16:59:27.000000Z",
-        "created_at": "2025-12-23T16:59:23.000000Z",
-        "id": 43100,
-        "vehicle_id": 433415,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433415/precautionary-report/4d242b9b7b4ec50239ac0ce0aa6f3990.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433415/images/f82fa190c3ee40d8b056f9196270da56.jpg",
@@ -8289,14 +7389,8 @@
       "preco": 47000,
       "encerra": "2026-01-08 11:11:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433394/precautionary-report/76ff024deff9a4b4044d6d52eccb3a51.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433394/precautionary-report/76ff024deff9a4b4044d6d52eccb3a51.pdf",
-        "updated_at": "2025-12-22T16:10:46.000000Z",
-        "created_at": "2025-12-22T16:10:44.000000Z",
-        "id": 43027,
-        "vehicle_id": 433394,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433394/precautionary-report/76ff024deff9a4b4044d6d52eccb3a51.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433394/images/1c9cecc844d637987fb0399af3f1090f.jpg",
@@ -8346,14 +7440,8 @@
       "preco": 43000,
       "encerra": "2026-01-08 11:11:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433392/precautionary-report/6b2dcd4c4bac794cbf8ae27f0e29cb1e.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433392/precautionary-report/6b2dcd4c4bac794cbf8ae27f0e29cb1e.pdf",
-        "updated_at": "2025-12-22T16:39:49.000000Z",
-        "created_at": "2025-12-22T16:39:46.000000Z",
-        "id": 43056,
-        "vehicle_id": 433392,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433392/precautionary-report/6b2dcd4c4bac794cbf8ae27f0e29cb1e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433392/images/d3724676eaf41078e0a97b6e4dfaeebe.jpg",
@@ -8401,14 +7489,8 @@
       "preco": 19000,
       "encerra": "2026-01-08 11:10:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433391/precautionary-report/a15da59af9fc50dd05dda395a299e390.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433391/precautionary-report/a15da59af9fc50dd05dda395a299e390.pdf",
-        "updated_at": "2025-12-22T16:41:57.000000Z",
-        "created_at": "2025-12-22T16:41:54.000000Z",
-        "id": 43059,
-        "vehicle_id": 433391,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433391/precautionary-report/a15da59af9fc50dd05dda395a299e390.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433391/images/f8a1eebd474f9bf8e89fc3c292f42fbd.jpg",
@@ -8458,14 +7540,8 @@
       "preco": 23000,
       "encerra": "2026-01-08 11:10:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433390/precautionary-report/8d441da2f0105ff56aaa8e80d095d4b5.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433390/precautionary-report/8d441da2f0105ff56aaa8e80d095d4b5.pdf",
-        "updated_at": "2025-12-22T16:09:06.000000Z",
-        "created_at": "2025-12-22T16:09:04.000000Z",
-        "id": 43026,
-        "vehicle_id": 433390,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433390/precautionary-report/8d441da2f0105ff56aaa8e80d095d4b5.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433390/images/99ae37cae6ce841f9a3cdc3d7a869eb9.jpg",
@@ -8515,14 +7591,8 @@
       "preco": 25000,
       "encerra": "2026-01-08 11:09:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433389/precautionary-report/6669c022a144f5d01dc8f521d9e7cd58.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433389/precautionary-report/6669c022a144f5d01dc8f521d9e7cd58.pdf",
-        "updated_at": "2025-12-22T16:43:44.000000Z",
-        "created_at": "2025-12-22T16:43:34.000000Z",
-        "id": 43061,
-        "vehicle_id": 433389,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433389/precautionary-report/6669c022a144f5d01dc8f521d9e7cd58.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433389/images/18b85efbae8e001ff25f13228e9e74d9.jpg",
@@ -8572,14 +7642,8 @@
       "preco": 24000,
       "encerra": "2026-01-08 11:09:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433431/precautionary-report/e62263291aa5b71ab25c4e7f1237fb19.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433431/precautionary-report/e62263291aa5b71ab25c4e7f1237fb19.pdf",
-        "updated_at": "2025-12-23T18:01:26.000000Z",
-        "created_at": "2025-12-23T18:01:00.000000Z",
-        "id": 43152,
-        "vehicle_id": 433431,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433431/precautionary-report/e62263291aa5b71ab25c4e7f1237fb19.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433431/images/61158f37501ab7b87da887a15fb4b085.jpg",
@@ -8629,14 +7693,8 @@
       "preco": 5000,
       "encerra": "2026-01-08 11:08:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433426/precautionary-report/78458a9ec0be50560e65470950a2b437.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433426/precautionary-report/78458a9ec0be50560e65470950a2b437.pdf",
-        "updated_at": "2025-12-23T15:04:01.000000Z",
-        "created_at": "2025-12-23T15:03:58.000000Z",
-        "id": 43084,
-        "vehicle_id": 433426,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433426/precautionary-report/78458a9ec0be50560e65470950a2b437.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433426/images/9a5863a9ed543538f5195f23efbe6471.jpg",
@@ -8679,14 +7737,8 @@
       "preco": 17000,
       "encerra": "2026-01-08 11:08:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433424/precautionary-report/bd3b8db544545a04b6d9957e8da42335.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433424/precautionary-report/bd3b8db544545a04b6d9957e8da42335.pdf",
-        "updated_at": "2025-12-23T15:13:00.000000Z",
-        "created_at": "2025-12-23T15:12:58.000000Z",
-        "id": 43089,
-        "vehicle_id": 433424,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433424/precautionary-report/bd3b8db544545a04b6d9957e8da42335.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433424/images/1d787c5f9743dc2af9e18b3e70727faf.jpg",
@@ -8736,14 +7788,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 11:07:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433406/precautionary-report/dbec47029f42fab8fe73706b45b07c85.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433406/precautionary-report/dbec47029f42fab8fe73706b45b07c85.pdf",
-        "updated_at": "2025-12-23T18:08:35.000000Z",
-        "created_at": "2025-12-23T18:08:30.000000Z",
-        "id": 43163,
-        "vehicle_id": 433406,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433406/precautionary-report/dbec47029f42fab8fe73706b45b07c85.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433406/images/c18f00b4476b5db84b6fb80f045eb7be.jpg",
@@ -8793,14 +7839,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 11:07:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432261/precautionary-report/9f9e24deaddbd5c448a512aa99452133.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432261/precautionary-report/9f9e24deaddbd5c448a512aa99452133.pdf",
-        "updated_at": "2025-11-28T20:38:50.000000Z",
-        "created_at": "2025-11-28T20:38:47.000000Z",
-        "id": 41932,
-        "vehicle_id": 432261,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432261/precautionary-report/9f9e24deaddbd5c448a512aa99452133.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432261/images/97f68cfb6aa95b842a49f1d90bb79a69.jpg",
@@ -8845,14 +7885,8 @@
       "preco": 23000,
       "encerra": "2026-01-08 11:06:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432025/precautionary-report/6169508da5157d82562006668b4b1f98.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432025/precautionary-report/6169508da5157d82562006668b4b1f98.pdf",
-        "updated_at": "2025-11-25T21:11:14.000000Z",
-        "created_at": "2025-11-25T21:11:08.000000Z",
-        "id": 41735,
-        "vehicle_id": 432025,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432025/precautionary-report/6169508da5157d82562006668b4b1f98.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432025/images/223702d0c7f66e0ee973d19df9300f21.jpg",
@@ -8903,14 +7937,8 @@
       "preco": 21000,
       "encerra": "2026-01-08 11:06:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432689/precautionary-report/302f8e3d95058672377ef10249b60cd4.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432689/precautionary-report/302f8e3d95058672377ef10249b60cd4.pdf",
-        "updated_at": "2025-12-10T14:31:29.000000Z",
-        "created_at": "2025-12-10T14:31:22.000000Z",
-        "id": 42401,
-        "vehicle_id": 432689,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432689/precautionary-report/302f8e3d95058672377ef10249b60cd4.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432689/images/b184bb3f945da78c91426aaea26dedd1.jpg",
@@ -8959,14 +7987,8 @@
       "preco": 16500,
       "encerra": "2026-01-08 11:05:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/430663/precautionary-report/41be27d1e87260ec5a169052bbe94fd2.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430663/precautionary-report/41be27d1e87260ec5a169052bbe94fd2.pdf",
-        "updated_at": "2025-10-28T19:34:26.000000Z",
-        "created_at": "2025-10-28T19:34:24.000000Z",
-        "id": 40400,
-        "vehicle_id": 430663,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/430663/precautionary-report/41be27d1e87260ec5a169052bbe94fd2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/430663/images/b37be6a6d263fc46dfa0405a7c5b2a8f.jpg",
@@ -9014,14 +8036,8 @@
       "preco": 14000,
       "encerra": "2026-01-08 11:05:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/432026/precautionary-report/38fc8d76f11ac950b364437418287e16.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432026/precautionary-report/38fc8d76f11ac950b364437418287e16.pdf",
-        "updated_at": "2025-11-25T21:17:57.000000Z",
-        "created_at": "2025-11-25T21:17:53.000000Z",
-        "id": 41740,
-        "vehicle_id": 432026,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/432026/precautionary-report/38fc8d76f11ac950b364437418287e16.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/432026/images/9996e7171117da1eba43fc2cecbbf745.jpg",
@@ -9058,14 +8074,8 @@
       "preco": 76000,
       "encerra": "2026-01-08 11:04:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433725/precautionary-report/6f2678fcb931ed6eab5469a9d9600b8e.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433725/precautionary-report/6f2678fcb931ed6eab5469a9d9600b8e.pdf",
-        "updated_at": "2026-01-06T14:35:37.000000Z",
-        "created_at": "2026-01-06T14:35:34.000000Z",
-        "id": 43405,
-        "vehicle_id": 433725,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433725/precautionary-report/6f2678fcb931ed6eab5469a9d9600b8e.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433725/images/51e8ee5a104d291543a637044aafa8c8.jpg",
@@ -9109,14 +8119,8 @@
       "preco": 53000,
       "encerra": "2026-01-08 11:03:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433724/precautionary-report/2bcdcd5474cc6afaa3136e98fef6ac04.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433724/precautionary-report/2bcdcd5474cc6afaa3136e98fef6ac04.pdf",
-        "updated_at": "2026-01-06T14:34:27.000000Z",
-        "created_at": "2026-01-06T14:34:25.000000Z",
-        "id": 43404,
-        "vehicle_id": 433724,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433724/precautionary-report/2bcdcd5474cc6afaa3136e98fef6ac04.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433724/images/1c9b7553eeae35a5a5f4977bdbf38335.jpg",
@@ -9162,14 +8166,8 @@
       "preco": 34000,
       "encerra": "2026-01-08 11:02:15",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433723/precautionary-report/0666010935336675b2a91a01caac1924.pdf",
-        "situation": "aprovado_com_apontamento",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433723/precautionary-report/0666010935336675b2a91a01caac1924.pdf",
-        "updated_at": "2026-01-06T14:33:10.000000Z",
-        "created_at": "2026-01-06T14:33:02.000000Z",
-        "id": 43403,
-        "vehicle_id": 433723,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433723/precautionary-report/0666010935336675b2a91a01caac1924.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433723/images/6cff13a0e83320e0ce3594bffb367f71.jpg",
@@ -9229,14 +8227,8 @@
       "preco": 22000,
       "encerra": "2026-01-08 11:00:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433207/precautionary-report/7c564a0081c2c623bc9023e493637ae4.pdf",
-        "situation": "reprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433207/precautionary-report/7c564a0081c2c623bc9023e493637ae4.pdf",
-        "updated_at": "2025-12-18T20:38:28.000000Z",
-        "created_at": "2025-12-18T20:38:25.000000Z",
-        "id": 42964,
-        "vehicle_id": 433207,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433207/precautionary-report/7c564a0081c2c623bc9023e493637ae4.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433207/images/7a1999bb69d9b955304e36820f3acf1e.jpg",
@@ -9281,14 +8273,8 @@
       "preco": 82000,
       "encerra": "2026-01-09 11:08:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/431102/precautionary-report/5ba5ff3a611f34b1b9c34482f38c4c90.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431102/precautionary-report/5ba5ff3a611f34b1b9c34482f38c4c90.pdf",
-        "updated_at": "2025-11-06T19:43:17.000000Z",
-        "created_at": "2025-11-06T19:43:07.000000Z",
-        "id": 40844,
-        "vehicle_id": 431102,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/431102/precautionary-report/5ba5ff3a611f34b1b9c34482f38c4c90.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/431102/images/e2df3ce70b35d0a2c39a256519794aff.jpg",
@@ -9350,14 +8336,8 @@
       "preco": 51900,
       "encerra": "2026-01-08 13:00:30",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433134/precautionary-report/6e2983f2841f2ef52c6b46b0330eeaa2.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433134/precautionary-report/6e2983f2841f2ef52c6b46b0330eeaa2.pdf",
-        "updated_at": "2026-01-07T17:39:47.000000Z",
-        "created_at": "2026-01-07T17:39:45.000000Z",
-        "id": 43416,
-        "vehicle_id": 433134,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/433134/precautionary-report/6e2983f2841f2ef52c6b46b0330eeaa2.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/433134/images/eba7f65add6c6450fc172d4388efa041.jpg",
@@ -9391,14 +8371,8 @@
       "preco": 999000,
       "encerra": "2039-12-31 20:20:00",
       "laudo": {
-        "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/427406/precautionary-report/1b9a2df44cfb75f56969e4f31e6578eb.pdf",
-        "situation": "aprovado",
-        "file_url": "https://d2r0520c1zax1.cloudfront.net/vehicles/427406/precautionary-report/1b9a2df44cfb75f56969e4f31e6578eb.pdf",
-        "updated_at": "2025-09-05T04:55:33.000000Z",
-        "created_at": "2025-09-05T04:55:30.000000Z",
-        "id": 37270,
-        "vehicle_id": 427406,
-        "deleted_at": null
+        "url": "https://d2r0520c1zax1.cloudfront.net/vehicles/427406/precautionary-report/1b9a2df44cfb75f56969e4f31e6578eb.pdf",
+        "status": null
       },
       "fotos": [
         "https://d2r0520c1zax1.cloudfront.net/vehicles/427406/images/454733cb16bc284cda2ba69561570372.jpg",
