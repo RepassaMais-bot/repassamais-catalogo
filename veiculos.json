@@ -1139,7 +1139,7 @@
       "ano_mod": 2015,
       "combustivel": "Alcool / Gasolina",
       "km": 80065,
-      "preco": 23000,
+      "preco": 29000,
       "encerra": "2026-01-09 11:44:30",
       "laudo": {
         "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433845/precautionary-report/7d07d6dcb4c363987d85addd5aececc2.pdf",
@@ -1342,8 +1342,8 @@
       "ano_mod": 2025,
       "combustivel": "Alcool / Gasolina",
       "km": null,
-      "preco": 999000,
-      "encerra": "2026-01-09 11:29:00",
+      "preco": 41000,
+      "encerra": "2026-01-09 11:42:30",
       "laudo": {
         "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433841/precautionary-report/b9a361a3a6a327d6ab0ad260f277ec82.pdf",
         "situation": "aprovado_com_apontamento"
@@ -8493,7 +8493,7 @@
       "ano_mod": 2025,
       "combustivel": "Gasolina",
       "km": 4804,
-      "preco": 11000,
+      "preco": 12000,
       "encerra": "2026-01-09 11:06:30",
       "laudo": {
         "file": "https://d2r0520c1zax1.cloudfront.net/vehicles/433607/precautionary-report/0d55c410d50a3e025c29b1652dd52199.pdf",
